@@ -1,0 +1,5 @@
+langchain==0.0.346
+langchain-core==0.0.10
+neo4j==5.15.0
+numpy==1.26.2
+pandas==2.1.3

@@ -1,0 +1,1052 @@
+[
+  {
+    "product_id": 1,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134201-22120-gpkz4kwm51kv41_tn",
+    "product": "Cleanser",
+    "title": "76 Probiotics Amino Purifying Cleanser x2",
+    "price": 0,
+    "volume": 0,
+    "description": "25 Japanese Amino Acid  51 Probiotics, No Soap No Irritant Gentle Moisturizing Cleanser, Deeply Cleanses Dirt Repairs Moisturizes, Improves Skin Absorption of Skin Care"
+  },
+  {
+    "product_id": 1,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "TRUU"
+  },
+  {
+    "product_id": 1,
+    "relationship": "hasSkinType",
+    "entity_type": "skintype",
+    "entity_value": "all skin type"
+  },
+  {
+    "product_id": 1,
+    "relationship": "hasForm",
+    "entity_type": "form",
+    "entity_value": "Liquid"
+  },
+  {
+    "product_id": 1,
+    "relationship": "hasIngredient",
+    "entity_type": "ingredient",
+    "entity_value": "Probiotics"
+  },
+  {
+    "product_id": 2,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rbnf-lmhakxf3wxs5b4_tn",
+    "product": "Moisturizer",
+    "title": "AVARELLE Vitamin C Serum 30ml Brightening Serum for Face and Hyaluronic Acid Moisturizer  CICA for Acne Dark Spots",
+    "price": 0,
+    "volume": "30.0ml",
+    "description": "Intensive Vitamin C cream for controlling hyperpigmentation and antioxidant along with soothing\nproperties such as CICA Hyaluronic Acid and cucumber to brighten dull skin \n  \nBrightens Skin Tone\nGlow and Moisturizing\nInhibiting Melanin Formation\nCalming Troubled Skin\nReducing Acne Spots\n \nDull Skin\nDry Skin\nAcne Prone Skin\nSensitive Skin\n \n1    Sea buckthorn is called Vitamin Tree because of its rich source\nof Vitamin Naturally derived Vitamin C helps to reduce inflammation and brightens skin comfortably\n2   Its soothing and healing properties are an efficient ingredient for troubled skin\n3    Reduces dryness and flaking by moisturizing skin without stickiness\n4   Accelerated brightening ingredients to even skin tone\n5    Pure Vitamin C Antioxidant Antiaging and depigmentation\n    \n Worry of browning and irritation\n       \nBrowning and irritation are typical phenomena that cause people to hesitate to use Vitamin C cream Our product has increased the vitamin C extracted from sea buckthorn to maintain the efficacy of vitamins and minimize those symptoms\nHave sensitive skin\n    \nCICA helps with acne redness and wound with calming and healing properties It is suitable for acne prone skin It also contains Hyaluronic Acid and cucumber to moisturize and alleviate your skin from blemishes\nIncluding artificial fragrance\n   \nIt does not contain artificial fragrance All ingredients are EWG green safe and clean for all skin types\n  \n1After cleansing apply a small amount on your face\n2Massage gently to allow full absorption\n          Buy AVARELLE Vitamin C Serum 30ml Brightening Serum for Face and Hyaluronic Acid Moisturizer  CICA for Acne Dark Spots"
+  },
+  {
+    "product_id": 3,
+    "product_url": "https://down-sg.img.susercontent.com/file/0a3514c22556bd387259558e5169e507_tn",
+    "product": "Serum & Treatment",
+    "title": "AXISY OFFICIAL Dark Spot Correcting Glow Serum",
+    "price": 5.9,
+    "volume": 0,
+    "description": "A 5 Niacinamidebased serum that corrects dark spots and improves uneven skin tone With the help of plantderived Squalane this serum retains moisture to keep your skin glowing and healthy wherever you go, Step 1, Apply a small amount to entire face or problem areas, Step 2, Pat until completely absorbed, Water Glycerin Niacinamide Sodium Hyaluronate Propanediol Erythritol Butylene Glycol Squalane Oryza Sativa Rice Bran Extract Calendula Officinalis Flower Extract Carica Papaya Papaya Fruit Extract Hippophae Rhamnoides Fruit Extract Malpighia Glabra AcerolaFruit Extract Polyglyceryl10 Laurate Chlorphenesin Arginine Ethylhexylglycerin Carbomer Glutathione 12Hexanediol Hydroxypropyl Cyclodextrin Disodium EDTA Hydroxyethylcellulose Allantoin Rosmarinus Officinalis Rosemary Leaf Oil"
+  },
+  {
+    "product_id": 3,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "AXIS-Y"
+  },
+  {
+    "product_id": 3,
+    "relationship": "hasForm",
+    "entity_type": "form",
+    "entity_value": "Liquid"
+  },
+  {
+    "product_id": 3,
+    "relationship": "hasSkinType",
+    "entity_type": "skintype",
+    "entity_value": "all skin type"
+  },
+  {
+    "product_id": 3,
+    "relationship": "hasBenefits",
+    "entity_type": "benefits",
+    "entity_value": "Acne/ Blemishes"
+  },
+  {
+    "product_id": 3,
+    "relationship": "hasBenefits",
+    "entity_type": "benefits",
+    "entity_value": "Dark spots/ Hyperpigmentation"
+  },
+  {
+    "product_id": 3,
+    "relationship": "hasBenefits",
+    "entity_type": "benefits",
+    "entity_value": "Dullness/ Uneven texture"
+  },
+  {
+    "product_id": 3,
+    "relationship": "hasIngredient",
+    "entity_type": "ingredient",
+    "entity_value": "niacinamide"
+  },
+  {
+    "product_id": 3,
+    "relationship": "hasIngredient",
+    "entity_type": "ingredient",
+    "entity_value": "Squalane"
+  },
+  {
+    "product_id": 3,
+    "relationship": "hasIngredient",
+    "entity_type": "ingredient",
+    "entity_value": "Niacinamide"
+  },
+  {
+    "product_id": 4,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rbme-lm0lsi495557cd_tn",
+    "product": "Serum & Treatment",
+    "title": "AXISY OFFICIALMugwort Pore Clarifying Wash Off Pack",
+    "price": 0,
+    "volume": 0,
+    "description": "Relax  Care, With a base of 61 Mugwort extract this wash off pack clears the pores of impurities soothes inflamed and irritated skin and gently exfoliates dead skin to reveal a bright and healthy complexion, Skin Type, All, Skin Concern, Acne pores oily skin uneven texture, Skin Feel, Exfoliating"
+  },
+  {
+    "product_id": 4,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "AXIS-Y"
+  },
+  {
+    "product_id": 4,
+    "relationship": "hasForm",
+    "entity_type": "form",
+    "entity_value": "Cream"
+  },
+  {
+    "product_id": 4,
+    "relationship": "hasBenefits",
+    "entity_type": "benefits",
+    "entity_value": "Oiliness"
+  },
+  {
+    "product_id": 4,
+    "relationship": "hasBenefits",
+    "entity_type": "benefits",
+    "entity_value": "Enlarged Pores"
+  },
+  {
+    "product_id": 4,
+    "relationship": "hasBenefits",
+    "entity_type": "benefits",
+    "entity_value": "Acne/ Blemishes"
+  },
+  {
+    "product_id": 4,
+    "relationship": "hasBenefits",
+    "entity_type": "benefits",
+    "entity_value": "Dullness/ Uneven texture"
+  },
+  {
+    "product_id": 4,
+    "relationship": "hasSkinType",
+    "entity_type": "skintype",
+    "entity_value": "all skin type"
+  },
+  {
+    "product_id": 4,
+    "relationship": "hasIngredient",
+    "entity_type": "ingredient",
+    "entity_value": "Mugwort (61%)"
+  },
+  {
+    "product_id": 5,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rblj-lluhkf5n7lg9e6_tn",
+    "product": "Serum & Treatment",
+    "title": "AXISY OFFICIAL The PoreFect Duo LHA Peel  Fill Pore Balancing Cream  CALAMINE Pore Control Capsule Serum",
+    "price": 8.9,
+    "volume": 0,
+    "description": "CALAMINE Pore Control Capsule Serum 50ml \nA pore tightening serum which helps to improve the appearance of enlarged pores caused by excess sebum production through key ingredient CALAMINE and two plantderived complexes which include pore tightening ingredients This serum also features Moisture Capsules which have a skinconditioning effect to help improve oilwater balance in the skin\nLHA Peel  Fill Pore Balancing Cream 50ml CCPN2343163\nA pore balancing cream featuring LHA a mildly acidic skincare ingredient which gently removes dead skin cells the main culprit for clogged pores without irritating the skin or damaging the skin barrier This daily cream keeps your skin rejuvenated and smooth by promoting the skin turnover cycle\nHow to use\nCALAMINE Pore Control Capsule Serum 50ml\nStep 1 \nApply a pea sized amount to each cheek\nStep 2\nSpread evenly over the skin and pat in focusing on the butterfly zone where pores are more prominent\nStep 3\nBest when used with the LHA Peel  Fill Pore Balancing Cream\nLHA Peel  Fill Pore Balancing Cream 50ml\nStep 1\nApply an appropriate amount of cream and spread evenly over the skin\nStep 2\nThis cream works best when used after our CALAMINE Pore Control Capsule Serum\nStep 3\nCan be used as the final step in skincare routine or followed with a moisturizer  Buy AXISY OFFICIAL The PoreFect Duo LHA Peel  Fill Pore Balancing Cream  CALAMINE Pore Control Capsule Serum"
+  },
+  {
+    "product_id": 6,
+    "product_url": "",
+    "product": "",
+    "title": "",
+    "price": 0,
+    "volume": 0,
+    "description": "Login now and discover best deals and affordable prices on Shopee Singapore"
+  },
+  {
+    "product_id": 7,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11110105-7rbkc-lq35cu9lwvzm5b_tn",
+    "product": "Serum & Treatment",
+    "title": "Beauty of Joseon Light On Serum Centella  Vita C",
+    "price": 0,
+    "volume": 0,
+    "description": "Beautifymee is an Authorized Distributor of Beauty of Joseon products in Singapore"
+  },
+  {
+    "product_id": 7,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "Beauty of joseon"
+  },
+  {
+    "product_id": 8,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rbko-lqlpq77rykm611_tn",
+    "product": "Cleanser",
+    "title": "Buy 1 Free 1 THEFACESHOP Rice Water Bright Cleanser 150ml",
+    "price": 0,
+    "volume": "150.0ml",
+    "description": "Brightening deepfoaming cleanser effectively cleanses away makeup as the whipped cream texture gently envelops the skin, Formulated with natural cleansing agents including Rice Extract and Soapwort Extract it leaves skin looking clear and bright, Usage Directions, Step 1 Lather up the foaming cleanser with water and massage onto the face with a circular motion, Step 2 Rinse with lukewarm water and then with cold water as a finishing touch, Volume, 150ml"
+  },
+  {
+    "product_id": 8,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "THE FACE SHOP"
+  },
+  {
+    "product_id": 9,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rbna-llbf16yc4aicf5_tn",
+    "product": "Serum & Treatment",
+    "title": "Buy 1 Get 1 Free  Im from Mugwort Essence  Toner 160g",
+    "price": 0,
+    "volume": "160.0g",
+    "description": "Promotion  Buy 1 Get 1 Free, Mugwort extract 100, Calming  detoxifying effect on the skin, Helps treat acne troubles  irritation on the skin, Soothing herbal scent of a mugwort, Watery fluid texture easy for layering, Can be used both as a toner  as a essence, DETAILS, This is a soothing essence made with the single ingredient of Mugwort Extract The refreshing fluid formula adheres and absorbs into the skin to soothe sensitive skin and recharge moisture from within, 2 Dispense an appropriate amount of the essence and gently pat over the face to promote absorption starting with the most sensitive areas, 160ml  All Skin Types  Made in Korea"
+  },
+  {
+    "product_id": 9,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "I'm from"
+  },
+  {
+    "product_id": 10,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rbm6-lnm7sv31u83w62_tn",
+    "product": "Toners & Mists",
+    "title": "Buy 1 get 1 Free  Klairs Supple Preparation Unscented Toner 180ml",
+    "price": 0,
+    "volume": "1.0g",
+    "description": "Promotion  Buy 1 Get 1 Free, Unscented version of the Klairs best selling toner, Suited for extremely sensitive skin sensitive to essential oil, Lighter in texture compared to the original toner, Absorbs effectively into the skin, DETAILS, The unscented toner is the essential oilfree version of the original toner The irritationfree natural essential oils were removed from the original toner to accommodate customers who prefer nonscented products, 2 We recommend multiple applications on dry areas, 180ml  All Skin Types  Made in Korea"
+  },
+  {
+    "product_id": 10,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "Klairs"
+  },
+  {
+    "product_id": 11,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7qvfc-lhznxvuk5npuba_tn",
+    "product": "Serum & Treatment",
+    "title": "Cellfting Hyperpigmentation Care Whitish Cream 50ml",
+    "price": 37.1,
+    "volume": "50.0ml",
+    "description": "The products you ordered will be shipped directly from the Cellfting headquarters of Korea\nCellfting is a registered company in Korea hence we gurantee 100 authenticity in all our products\n\nWhitish Cream 50ml\nProduct Description\n Improving hyperpigmentation and whitening skin especially for groin elbow and knee\nKey effects\n It contains Niacinamide that suppresses melanin production and tones up skin\n It contains Phytospherix and Glycogen that regenerates skin cells and whitens skin tone\n It contains Ethly Ascorbyl Ether that acts as Vitamic C and improves hyperpigmentation\nAll ingredients\nPurified water Butylene glycol Niacinamide Glycerin 12hexanediol Pentylene glycol Panthenol\nAmmonium acryloyl dimethyl taurateVpico polymer Carbomer Arginine Caprylyl glycol Ethyl Ascorbyl Ether\nHydrogenated lecithin Allantoin Xanthan gum Ethylhexylglycerin Glycogen Dysodium EDDA White rice extract\nSodium hyaluronate Potasium hyaluronate Sodium hyaluronate cross polymer Hydroxypropyl trimonium hyaluronate\nHydrolized Hyaluronic Acid High Aluronic Acid Sodium Acetylated Hyaluronate\nNote\n1 Ingredients subject to change at the manufacturers discretion For the most complete and uptodate list of\ningredients please refer to product packaging\n2 The outcome of this skincare product projected here is general Individual experience may vary depending on age\ngender skin type lifestyle diet other conditions and disorders  Buy Cellfting Hyperpigmentation Care Whitish Cream 50ml"
+  },
+  {
+    "product_id": 12,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-23020-ctc2jgajp9mv2f_tn",
+    "product": "Mask",
+    "title": "DERMATORY  Pro Ampoule Shot Mask Brightening Firming Moisture Calming",
+    "price": 2.1,
+    "volume": 0,
+    "description": "One_ampoule_sheet_mask containing highly concentratedampoule, Packed with of highly concentrated ampoule that does notrun One ampoule sheet mask, As if applying one bottle of highly concentrated ampoule, Thin and soft like real skin 02mm skinfit sheet, Softly and thinly adhering 02mm skinfit sheet that feelslike skin effectively delivers active substances while it densely wraps theskin, Hyal Shot, Moisturizes skin to keep it supple soft and firm, Hydrates dry skin and lets skin retain moisture, Collagen Shot, Promotes skin firmness giving off a youthful supple glow, Improves appearance of fine lines wrinkles and other effects of skinaging"
+  },
+  {
+    "product_id": 12,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "DERMATORY"
+  },
+  {
+    "product_id": 13,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7qvdv-lgd6jjh4kldveb_tn",
+    "product": "Mask",
+    "title": "DERMATORY  Pro Vitaa Retinalderm Band Mask 1pc",
+    "price": 0,
+    "volume": 0,
+    "description": "Product Description, Vitamin A ingredient retinal containing essence, Receives elasticity from the pores and makes the skin smooth and firm, Synergy of retinal  bakuchiol  hydrolyzed collagen, Increases the elasticity of pores, Tightfit elastic band sheet containing collagen even to the fabric, Covers the face evenly to give precise contraction, 1 Prepare the skin with toner, 2 Hold the incision line of the sheet pull it up and wrap the ball to make it close, 3 After 1020 minutes tap the remaining essence on the skin for absorption"
+  },
+  {
+    "product_id": 13,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "DERMATORY"
+  },
+  {
+    "product_id": 13,
+    "relationship": "hasBenefits",
+    "entity_type": "benefits",
+    "entity_value": "Anti Aging"
+  },
+  {
+    "product_id": 13,
+    "relationship": "hasBenefits",
+    "entity_type": "benefits",
+    "entity_value": "Dryness"
+  },
+  {
+    "product_id": 13,
+    "relationship": "hasBenefits",
+    "entity_type": "benefits",
+    "entity_value": "Fineline/ Wrinkles"
+  },
+  {
+    "product_id": 14,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rbkk-lpt8r6wsgjfkb6_tn",
+    "product": "Serum & Treatment",
+    "title": "Dododots Beauty Patch  Pastel Petals  Pimple Patch Acne Removal Hydrocolloid Stickers",
+    "price": 0,
+    "volume": 0,
+    "description": "THIS IS THE ONLY OFFICIAL STORE FOR DODODOTS, DODO VENTURES PTE LTD, UEN Number 202317317E, SHOP SAFE  SHOP ORIGINAL, Dododots Pastel Petals, Update as of 812024 we have changed our Pastel Petals rhinestones to the colour pink, SPECIFICATIONS, 20 ADORABLE flowershaped patches, 5 different colours, Embedded with the cutest reflective pink gems, Comfortably adheres to the skin for hours, Made from hydrocolloid material same material as wound dressing, FDAapproved CEcertified, Suitable for sensitive  acneprone skin, USPs, Day  Night, No Harsh Chemicals, Absorbs Oil, Cover  Protect, Best Use, Please keep product in cool dry place and avoid from direct sunlight or heat"
+  },
+  {
+    "product_id": 14,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "dododots"
+  },
+  {
+    "product_id": 14,
+    "relationship": "hasIngredient",
+    "entity_type": "ingredient",
+    "entity_value": "Hydrocolloid"
+  },
+  {
+    "product_id": 15,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rblg-lpt8r6uuf5wq32_tn",
+    "product": "Serum & Treatment",
+    "title": "Dododots Beauty Patch  Pretty In Pink  Pimple Patch Acne Removal Hydrocolloid Stickers",
+    "price": 0,
+    "volume": 0,
+    "description": ""
+  },
+  {
+    "product_id": 15,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "dododots"
+  },
+  {
+    "product_id": 15,
+    "relationship": "hasForm",
+    "entity_type": "form",
+    "entity_value": "Patch"
+  },
+  {
+    "product_id": 15,
+    "relationship": "hasIngredient",
+    "entity_type": "ingredient",
+    "entity_value": "Hydrocolloid"
+  },
+  {
+    "product_id": 16,
+    "product_url": "https://down-sg.img.susercontent.com/file/e4bd3e7a235b376cecd61650d1f5a962_tn",
+    "product": "Cleanser",
+    "title": "Drville Face Cleanser Oil Cleanser Pigmentation Remove Dark Spot Remover Face Wash 100g Cleanser Brightening Lighten Dark Spot",
+    "price": 12.45,
+    "volume": "100.0g",
+    "description": "Welcome to   Drville  Official Store \nProduct Information\nSkin Type All Skin Types\nItem condition  100 Brand New Fresh Stock\nVolume  100gbottle\n Description \n  Contains a variety of whitening plant ingredients whitening and moisturizing deeply cleaning the skin leaving the skin moist and naturally moist\n  Amino acids are active containing 30 ethyl ascorbic acid nicotinamide arbutin and multiple plant extracts whitening and brightening skin tone\n   If there is any discomfort on the skin during use please stop using it In case of contact with eyes please rinse with plenty of water\nUsageUse it every morning and evening moisten your face with clean water apply proper amount of this product to the palm of your hand add a small amount of clean water knead it into foam evenly apply it to your face gently massage it in a circular motion and rinse it thoroughly with clean water\n Please be assured that we sell the latest manufactured product \n Products are shipped to you ON THE SAME DAY when your order is placed \n We guarantee  AUTHENTICTY   Buy Drville Face Cleanser Oil Cleanser Pigmentation Remove Dark Spot Remover Face Wash 100g Cleanser Brightening Lighten Dark Spot"
+  },
+  {
+    "product_id": 17,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rbmn-lokup9vgy3bwd0_tn",
+    "product": "Moisturizer",
+    "title": "Eunyul Soothing  Moisture Pure Aloe Vera Gel  Aloe Vera Mist facial mist soothing gel SG Ship",
+    "price": 6.6,
+    "volume": 0,
+    "description": "Korea Best Selling Aloe Vera Gel  Mist from Eunyul\nMix gel and mist bundles are available Best price in SG with the options to mix gel and mist in this bundle for 2 or 3 New fresh stock in SG for immediate shipping \nEUNYUL ALOE VERA GEL  \nThe Aloe Vera Soothing Gel from EUNYUL comes in jar of 300ml Contains 98 pure Jeju Aloe Vera Leaf All purpose soothing gel that can used for the body and face with fast absorption Deeply moisturizes and heal damaged skin Refreshing and clean feel\nEUNYUL ALOE MOISTURE FACE MIST \nThe Aloe Moisture Mist from EUNYUL comes in a bottle of 150ml Convenient and easy to carry Just spray on and apply Great for outdoors Refreshing and lightly scented \nMade in Korea\nGel in jar is 300ml and Mist in Bottle is 150ml    Buy Eunyul Soothing  Moisture Pure Aloe Vera Gel  Aloe Vera Mist facial mist soothing gel SG Ship"
+  },
+  {
+    "product_id": 18,
+    "product_url": "https://down-sg.img.susercontent.com/file/7302786f390fcdb9da379547229f29c5_tn",
+    "product": "Moisturizer",
+    "title": "FRENZY DEAL ONE DAYS YOU Collection Toner Pad Easy Pore Care One Step Remove Dead Skin Cells Sebum 10ea",
+    "price": 5.57,
+    "volume": 0,
+    "description": "Hello we are One Days You Official Store from Korea\nWe present you with a fresh skin daily product that contains ingredients from the best that nature could offer such as fresh fruits and healthy herbs All products directly shipping from One Days You main office in S Korea\n\nExperience the ultimate skincare with the Cleanser Pad from One Days You Specially formulated to provide effortless moisturization soothing and rejuvenation for your skin these pads effectively remove dead skin cells sebum and makeup residue Kickstart your skincare routine with the perfect first step offering deep hydration pore control soothing effects and acne care\nKey Ingredients\nInfused with a powerhouse of ingredients these pads deliver remarkable results\n 8 Layers of Hyaluronic Acid Delight your skin with intense hydration maintaining the perfect moisture balance\n Hippophae Rhamnoides Fruit Extract Nourish your skin with antioxidantrich goodness promoting a healthy and radiant complexion\n Pancratium Maritimum Extract Experience the calming touch of this extract soothing your skin reducing redness and irritation\nHow to Use\n1 Using the embossed side gently wipe the entire face to remove dead skin cells and sebum laying the foundation for revitalization\n2 Focus on troubled areas like the nose and chin utilizing the gauze side to effectively cleanse clearing away any impurities\n3 Complete your cleansing ritual by patting the entire face gently allowing the remaining toner to be lovingly absorbed into your skin\n4 After use ensure to close the lid tightly preserving the products efficacy and freshness\nExpiration Date Rest easy knowing that this product maintains its potency for one year after opening and remains valid for three years from the manufacturing date\nReturnsExchanges Please kindly note that returnsexchanges for this product are limited after purchase due to hygiene reasons Your understanding is greatly appreciated\nShipping All products are directly shipped from South Korea typically arriving within seven working days Your patience is valued as we bring you the very best \nEnhance your skincare routine with the Cleanser Pad from One Days You Elevate your experience with deep hydration effective cleansing and soothing effects for your skin Dont wait any longer to unveil a refreshed and revitalized complexion Place your order now and embrace the beauty of renewed skin \nGREEN PAD  Darkspot Mitigation and Acne Care Exfoliating Pads for Bright and Healthy Skin \nAchieve bright and radiant skin with GREEN PAD These exfoliating pads are specially formulated to mitigate dark spots and provide a brightening effect for your entire complexion See the positive changes in your skin with your own eyes\n Betain Moisturizing and Trouble Care Infused with the power of Betain and Salicylate GREEN PAD offers effective decontamination and management of the skin\nYELLOW PAD  Brightening and Moisturizing Daily Toner Pads \n EWG Green Grade Formula YELLOW PAD is formulated with all EWG Green Grade ingredients making it safe and suitable for even the most sensitive skin types\n Brightening  Moisturizing Effects Infused with Citrofortunella Microcarpa Fruit Extract Orange Extract and various vitaminbased ingredients these toner pads deliver a powerful combination of brightening and moisturizing effects to your skin\n ProVita C Our unique complex ProVita C is specially developed for brightening and moisturizing care It contains propolis extract and various vitamin derivatives promoting a brighter and smoother complexion\nBROWN PAD  Pore Tightening and Exfoliating Toner Pads for Clean and Clear Skin \n Skinfriendly Care BROWN PAD is carefully formulated to maintain the skins pH balance ensuring gentle and effective care for your skin\n Pore Tightening and Exfoliation Our daily toner pads offer easy pore tightening and exfoliation making it convenient for your skincare routine Enriched with Witch Hazel Water and Tannin Complex they help soothe and clarify your skin\nCERAMIDE AMPOULE PAD  Highly Nutritious and Moisturizing Toner Pads for Reinforcing the Skin Barrier \n Hydration Without Irritation Enriched with natural ceramide ingredients these toner pads deeply hydrate your skin leaving it nourished and revitalized without any irritation\nHELP ME REAL COLLAGEN PAD  Your Convenient Mini Sheet Mask Solution \nYou can think of it as a specialized partial sheet mask and it comes in a unique Jelly fit design that adheres perfectly to your skin Experience the ultimate comfort and effectiveness with our REAL COLLAGEN PAD for a revitalized and radiant complexion Add it to your skincare routine today \nHELP ME ICE COOLING PAD  Experience Instant Refreshment and Cooling Sensation \nExperience the soothing and rejuvenating feeling as you use our ICE COOLING PAD  Buy FRENZY DEAL ONE DAYS YOU Collection Toner Pad Easy Pore Care One Step Remove Dead Skin Cells Sebum 10ea"
+  },
+  {
+    "product_id": 19,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rblk-ll7tyebossb602_tn",
+    "product": "Moisturizer",
+    "title": "INNISFREE Cherry Blossom Glow Tone Up Cream 50ml",
+    "price": 0,
+    "volume": "50.0ml",
+    "description": "Natural and bright on any skin tone, Cherry blossom skin tone, For darkening and dull skin tone concerns, For adding dewiness and vitality to dry and lifeless skin, Pink vitality Toneup cream Brightening Cherry Blossom Glow Toneup Cream, Toneup to a lively pinkness of cherry blossoms, Foundationfree toneup effect to transcend the undertones whether warm or cool, The formula containing a powder with instant toneup effect helps you enjoy a much brighter yet natural look that is perfectly adapted to your skin, The cream with added sugar canederived betaine helps prevent water evaporation from the skin, This moistfeeling toneup cream adheres finely to the skin with a light finish, 2 It is then recommended to apply a sunscreen because this product doesnt have a UV protection effect, 3 A light cleansing process is required after use because the formula contains a powder for the instant toneup effect"
+  },
+  {
+    "product_id": 19,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "Innisfree"
+  },
+  {
+    "product_id": 19,
+    "relationship": "hasForm",
+    "entity_type": "form",
+    "entity_value": "Cream"
+  },
+  {
+    "product_id": 20,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11110105-7rbk7-lq46pyvmeb3dae_tn",
+    "product": "Serum & Treatment",
+    "title": "INNISFREE Vitamin C Green Tea Enzyme Brightening Serum 30ml",
+    "price": 0,
+    "volume": "30.0ml",
+    "description": "4X Brighter Clear Glow, Spot Toning Serum Vitamin C Serum Vitamin C Green Tea Enzyme Serum, Vitamin C meets Jeju Green Tea Enzyme spotpeeling care at once, NEW formula with a combination of vitamin C capsules and Jeju Green Tea Enzyme provides spotpeeling care at once Jeju Green Tea Enzyme infused formula helps exfoliate skin and vitamin C infused formula helps with brightening care, Achieve a brighter looking skin, Brighteningpeeling dual care for smooth and clear glass skin, Dual care of brightening and peeling for better efficacy 48 improvement in the number of spots 101 in skin texture 112 in skin translucency Achieve smooth and glowing glassy skin with more effective dual care of Vitamin C Serum, Hypoallergenic formula suitable for sensitive skin, Melting capsules developed with the technology of innisfrees Green Innovation Lab softly melts into skin to absorb Low pH 9formulated free formula including fragrance 000 skin irritation score formula suitable to be used on a daily basis Tested on panel with sensitive skin and noncomedogenic tested to be used on sensitive skin"
+  },
+  {
+    "product_id": 20,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "Innisfree"
+  },
+  {
+    "product_id": 21,
+    "product_url": "https://down-sg.img.susercontent.com/file/93354f0b24b2ffc482fd67fa3b513af4_tn",
+    "product": "Toners & Mists",
+    "title": "Im from Rice Toner miniature 30ml",
+    "price": 0,
+    "volume": "30.0ml",
+    "description": "Miniature \n Dull skin\n Brightening\n 7778 Rice Goami extract\n Helpful for dull complexion\n Helps get rid of impurities deep within the skin\n Improves hydration  moisture barrier\n 2layer formula  water  emulsion layers\n DETAILS \nThis toner is made with 7778 Rice Extract effective in elasticity care The product forms a protective barrier over the skin to prevent water loss eliminate dead skin cells and provide luster and moisturization to rebalance dry and tired skin\n HOW TO USE \n1 Before use shake well to mix the water and emulsion layers\n2 After cleansing dispense on a cotton pad and wipe off or press onto dry areas\n INGREDIENTS \nRice extract Methylpropanediol Triethylhexanoin Hydrogenated poly C614 olefin Niacinamide Pentylene glycol Common Purslane extract Rice bran extract Japanese elm bark extract Amaranthus caudatus seed extract Hydrogenated lecithin Distilled water Polyglyceryl10myristate Butylene glycol Adenosine Cellulose gum Ethylhexylglycerin 12Hexanediol\n30ml  All Skin Types  Made in Korea\nPAO 12M  EXP 36M from MFD  Buy Im from Rice Toner miniature 30ml"
+  },
+  {
+    "product_id": 22,
+    "product_url": "https://down-sg.img.susercontent.com/file/a7a40cd4725633204b71f8ef51866755_tn",
+    "product": "Sun Care",
+    "title": "Isntree Hyaluronic Acid Watery Sun Gel 50ml 2ea",
+    "price": 0,
+    "volume": "50.0ml",
+    "description": "Isntree Hyaluronic Acid Watery Sun Gel 50ml x 2 EA, Why does sunscreen have Hyaluronic Acid, Hyaluronic Acid replenishes and lock in moisture When skin can be damaged easily by strong UV Hyaluronic acid prevents dehydration and helps to maintain the level of moisture necessary for healthy skin, SPF50 PA, SPF50 and PA  block Ultraviolet A and B which causes skin inflammation and burn, Differences between Sunblock and Sunscreen, Sunblock is a physical sun protectant that forms a physical shield and blocks UV by reflecting away Its good for sensitive skin, Sunsreen is a chemical protectant that absorbs UV rays and breaks it down to change it to heat It doesnt leave a white cast, Recommended to all skin types"
+  },
+  {
+    "product_id": 22,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "isntree"
+  },
+  {
+    "product_id": 22,
+    "relationship": "hasForm",
+    "entity_type": "form",
+    "entity_value": "Gel"
+  },
+  {
+    "product_id": 23,
+    "product_url": "https://down-sg.img.susercontent.com/file/2b3aa5921c8c1c8b6b2177b1234d7a8c_tn",
+    "product": "Serum & Treatment",
+    "title": "Isntree Hyper Niacinamide 20 Serum 20ml",
+    "price": 0,
+    "volume": "20.0ml",
+    "description": "Isntree Hyper Niacinamide 20 Serum 20ml, Niacinamide 20 serum helps visibly minimize the enlarged pores improve overall skin texture and brighten the skin tone, AllInOne, Sebum Production, Appearance of Pores, Skin Texture, 20 Niacinamide, Provides intensive wellaging benefits by improving the appearance of fine lines and wrinkles, Hydrating and Refreshing, The lightweight fastabsorbing formula provides the skin with instant hydration leaving it feeling soft and fresh, Even Skin Tone and Texture, TIPS, For daytime use follow up with sunscreen"
+  },
+  {
+    "product_id": 23,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "isntree"
+  },
+  {
+    "product_id": 23,
+    "relationship": "hasForm",
+    "entity_type": "form",
+    "entity_value": "Liquid"
+  },
+  {
+    "product_id": 24,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rbml-lq4jqu7pn2mf83_tn",
+    "product": "Serum & Treatment",
+    "title": "Isntree UltraLow Molecular Hyaluronic Acid Serum 50ml",
+    "price": 0,
+    "volume": "50.0ml",
+    "description": "Isntree UltraLow Molecular Hyaluronic Acid Serum 50ml, A firming serum that contains 14 layers of ultralow molecular weight hyaluronic acid and fresh seawater from Ulleung Island, deeply hydrates the dehydrated skin, 14 layers of moisture deeply hydrate  smoothen skin, From ultralow to high molecular of Hyaluronic acid help hydrate the inner and outer part of the skin, Quick absorbing HA serum, Light and fresh feeling without slippery feeling helps the skin hydrated in 3 seconds, Sea water from Ulleung Island, Sea water of Ulleung Island is rich in Magnesium Calsium and Kalium which helps to replenish moisture and prevent the skin from getting dried, 20260228"
+  },
+  {
+    "product_id": 24,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "isntree"
+  },
+  {
+    "product_id": 25,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rbkl-lqd07x5q2b1c01_tn",
+    "product": "Serum & Treatment",
+    "title": "JUMBO SIZED 236ml Paulas Choice Skin Perfecting 2 BHA Salicylic Acid Liquid Exfoliant",
+    "price": 0,
+    "volume": "236.0ml",
+    "description": "Methylpropanediol Salicylic Acid Green Tea"
+  },
+  {
+    "product_id": 25,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "Paula's Choice"
+  },
+  {
+    "product_id": 26,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rblx-lm4f7n07zp9laa_tn",
+    "product": "Moisturizer",
+    "title": "KAHI Aqua Balm 9g",
+    "price": 0,
+    "volume": "9.0g",
+    "description": "A lightweight nonsticky convenient allinone skin and sun care product suitable for all skin types Protect your skin against UV rays and fill with moisture and nutrients High efficiency on skin tone improvement since it perfectly blocks UVA and UVB Formulated with Jeju natural fermented oil and Triple Salmon Complex to enhance skin hydration and improve skin barrier Made with patented Filmexel Technology which has a high makeup persistency"
+  },
+  {
+    "product_id": 26,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "KAHI"
+  },
+  {
+    "product_id": 26,
+    "relationship": "hasForm",
+    "entity_type": "form",
+    "entity_value": "Others"
+  },
+  {
+    "product_id": 27,
+    "product_url": "https://down-sg.img.susercontent.com/file/d5c4838c2ffc295a2c7915aef5307983_tn",
+    "product": "Serum & Treatment",
+    "title": "LALUCELL Cica Rebuilding Serum 33ml 185000ppm 6 type Cica Antiinflammatory Skin resilience Antioxidants",
+    "price": 0,
+    "volume": "33.0ml",
+    "description": "LALUCELL Cica Rebuilding Serum, Rebuilding and relaxing serum for soothing and preventing blemishes smooth fine lines and wrinkles to promote appearance of rich dewy skin, Core Features, 185000ppm skin soothing 6 type centella asiatica cica solution, Rebuilding Power, Powerful skin soothing and rebuilding serum for even skin tones enhance collagen with antiinflammatory properties helps with healing wounds, Core Features, Dandelion and Barley  No purified water skin calming antiinflammatory properties with reducing dark spots outbreaks infections and skin elasticity Patented pharmaceutical TARAX II Formula Patent No 101376202, Centella extract  Reduces inflammation boosts skin resilience antioxidants and collagen promotes wound healing and recovery, Madecassic Acid  Antioxidant helps to soothe and calm signs of skin inflammation reduce fine lines wrinkles and redness, Asiaticoside Asiatic Acid  Defend against free radical irritants moisturizing repairs skin barrier and regeneration, Lotus Stem Cell and Edelweiss Callus Culture Extract  Brightening skin tones powerful antioxidant properties  Wrinkle recovery with skin firming properties, Liposome Technology  Increasing skin absorption by 4x times with patented ELASOME technology Patent No  101740097 Patent No  101143717, TIP, Gently tap in a rolling motion and continue to tap the serum to activate ELASOME technology for better absorption, Recommend, My sensitive skin needs gentle serum without irritation, Experiencing skin troubles from pregnancy and childbirth, I am concerned with dark complexion with blemishes skin troubles and redness, Size and texture 33ml  Light liquid type serum perfect for all skin types, Dermatest  EXCELLENT Certified PETA Certified, All LALUCELL products you order are prepared and packaged by LALUCELL Center located in South Korea, Contact us if you have any questions We will be happy to find the best solution to your skin, lalucell serum skincare lalucellserum cica miracleserum cicaserum faceserum kbeauty sensitive sensitiveskin whitening antiwrinkle hydrating moisturizing inflammation"
+  },
+  {
+    "product_id": 27,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "LALUCELL"
+  },
+  {
+    "product_id": 27,
+    "relationship": "hasIngredient",
+    "entity_type": "ingredient",
+    "entity_value": "Anti-oxidants"
+  },
+  {
+    "product_id": 27,
+    "relationship": "hasIngredient",
+    "entity_type": "ingredient",
+    "entity_value": "Naturally Derived"
+  },
+  {
+    "product_id": 27,
+    "relationship": "hasIngredient",
+    "entity_type": "ingredient",
+    "entity_value": "EWG"
+  },
+  {
+    "product_id": 27,
+    "relationship": "hasIngredient",
+    "entity_type": "ingredient",
+    "entity_value": "Cica"
+  },
+  {
+    "product_id": 27,
+    "relationship": "hasSkinType",
+    "entity_type": "skintype",
+    "entity_value": "all skin type"
+  },
+  {
+    "product_id": 27,
+    "relationship": "hasBenefits",
+    "entity_type": "benefits",
+    "entity_value": "Dryness"
+  },
+  {
+    "product_id": 27,
+    "relationship": "hasBenefits",
+    "entity_type": "benefits",
+    "entity_value": "Dullness/ Uneven texture"
+  },
+  {
+    "product_id": 27,
+    "relationship": "hasBenefits",
+    "entity_type": "benefits",
+    "entity_value": "Redness"
+  },
+  {
+    "product_id": 27,
+    "relationship": "hasBenefits",
+    "entity_type": "benefits",
+    "entity_value": "Uneven skin tone"
+  },
+  {
+    "product_id": 27,
+    "relationship": "hasBenefits",
+    "entity_type": "benefits",
+    "entity_value": "Skin recovery and regeneration"
+  },
+  {
+    "product_id": 27,
+    "relationship": "hasForm",
+    "entity_type": "form",
+    "entity_value": "water"
+  },
+  {
+    "product_id": 27,
+    "relationship": "hasIngredient",
+    "entity_type": "ingredient",
+    "entity_value": "cica"
+  },
+  {
+    "product_id": 27,
+    "relationship": "hasIngredient",
+    "entity_type": "ingredient",
+    "entity_value": "extract base TARAX\u2161\u00ae"
+  },
+  {
+    "product_id": 28,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-23020-thyqujb0g2nv32_tn",
+    "product": "Serum & Treatment",
+    "title": "LANEIGE Perfect Renew 3X Signature Serum 40ml  40ml",
+    "price": 0,
+    "volume": "40.0ml",
+    "description": "LANEIGE Perfect Renew 3X Signature Serum\nHighefficacy age prevention serum that precisely targets key aging factors to densify skin and reduce wrinkles\n1 Basal Glow Serum with super low molecular weight RED Flavonoid\nThe Perfect Renew 3x Signature Serum is formulated with a super low molecular weight Bioflavonoid specifically a 5 billion super molecular BioF and ferulic acid made to target and stop skin aging accelerators restoring glow from within\n2 Firming Serum with 215 Collagen Peptide Complex\nWith the aim for reduce collagenase in skin the LANEIGE Perfect Renew 3x Signature Serum is made with 215 HighContent Collagen Peptide to effectively restore skin density and firmness\n3 AntiWrinkle Serum containing 25 million Micro Retinol Capsules\nIn just 1 drop the Perfect Renew 3x Signature Serum is specially made by the teams at LANEIGE to reduce inflammation and appearance of wrinkles from the skin surface  Buy LANEIGE Perfect Renew 3X Signature Serum 40ml  40ml"
+  },
+  {
+    "product_id": 29,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7qvdb-li8jor60n5gzea_tn",
+    "product": "Sun Care",
+    "title": "La RochePosay Anthelios UVMUNE 400 Oil Control Fluid SPF 50 50ml",
+    "price": 0,
+    "volume": "50.0ml",
+    "description": "AsunscreenwithbroadspectrumprotectionagainstdamagingUVraysupto400nmsuitableforoilyskin\nKeyBenefits\nBroadspectrumandveryhighprotectionagainstultralongUVAAIRLICIUMtechnologyMattifyingmicroparticlesthatimmediatelyabsorbsebumexcessandhelpcontrolsourcesofshinesebumsweathumidityinordertohelpreduceskinoilinessdayafterdayDrytouchfinishwith12hrsmattifyingeffectLighttextureandnongreasyNowhitemarks\nHowtouseinstructions\nFordailyusageandsunexposition\nApplythesunscreenproductjustbeforeexposure\nReapplyfrequentlyandgenerouslytomaintainprotectionespeciallyafterperspiringortowelling\nForexternaluseonly\nValidityafteropening12months\nProductIngredients\nAQUAWATERALCOHOLDENATTRIETHYLCITRATEDIISOPROPYLSEBACATESILICABISETHYLHEXYLOXYPHENOLMETHOXYPHENYLTRIAZINEETHYLHEXYLSALICYLATEETHYLHEXYLTRIAZONEBUTYLMETHOXYDIBENZOYLMETHANEGLYCERINPROPANEDIOLC1222ALKYLACRYLATEHYDROXYETHYLACRYLATECOPOLYMERC1215ALKYLBENZOATESODIUMCITRATEMETHOXYPROPYLAMINOCYCLOHEXENYLIDENEETHOXYETHYLCYANOACETATEPERLITETOCOPHEROLCAPRYLICCAPRICTRIGLYCERIDEACRYLATESC1030ALKYLACRYLATECROSSPOLYMERBIXAORELLANASEEDEXTRACTCAPRYLYLGLYCOLCITRICACIDDIETHYLAMINOHYDROXYBENZOYLHEXYLBENZOATEDROMETRIZOLETRISILOXANEHYDROXYACETOPHENONEHYDROXYETHYLCELLULOSEMALTODEXTRINPENTYLENEGLYCOLSILICASILYLATETEREPHTHALYLIDENEDICAMPHORSULFONICACIDTRIETHANOLAMINETRISODIUMETHYLENEDIAMINEDISUCCINATEZINCPCAPARFUMFRAGRANCE  Buy La RochePosay Anthelios UVMUNE 400 Oil Control Fluid SPF 50 50ml"
+  },
+  {
+    "product_id": 30,
+    "product_url": "https://down-sg.img.susercontent.com/file/e002a99fcea6094e019c75af0f54d588_tn",
+    "product": "Cleanser",
+    "title": "MAKE PREM Safe me Relief Moisture Cleansing Milk 200ml21ml",
+    "price": 26.98,
+    "volume": "200.0ml",
+    "description": "Safe me Relief Moisture Cleansing Milk\nA soft and milky cleanser that gently washes away makeup and surface impurities The formula contains soy protein and other plant extracts to hydrate and soothe skin\nSUITABLE FOR ALL SKIN TYPES\nFormulated for all skin types and clinically proven suitable for sensitive skin\nHIGHLIGHTS\n Utilizing soy the formula creates a protein film to keep skin dewy and hydrated \n pHbalanced cleansing that removes impurities makeup and even fine particles from skin reduced fine particles by 9767 after 1 use \n A coconutderived sulfate and plant oil gently cleanses impurities dead skin cells and makeup residue without drying and stripping skin\n Clinically proven effective at removing ultrafine dust and not to cause skin irritation \n Certified by VEGAN no animal testing and contains no animal ingredients \n Packaging uses ecofriendly green soy oil printing ink \nFORMULATION\nA milky conditioning face cleanser that gently removes makeup and dirt leaving skin soft soothed and healthylooking\nNO Artificial fragrances or colorants EWG green graded ingredients Free from 20 harmful ingredients\nHOW TO USE\n Put an appropriate amount in your palm and apply evenly to dry face\n Gently massage on your face for about 1 minute to remove makeup and impurities\n Single Cleansing  Rinse thoroughly with warm water\n Double Cleansing  Wipe off with a cotton pad or tissue and complete cleansing routine with a foam cleanser\n NO ReturnRefund for change of mind\nAll orders are shipped directly from Make Prem headquarter in Seoul South Korea\nShipments will arrive on your doorstep after 714 days from your order \nmakeprem make prem safe me safeme cleansingmilk reliefmoisturecleansingmilk cleansing cleanser vagan    Buy MAKE PREM Safe me Relief Moisture Cleansing Milk 200ml21ml"
+  },
+  {
+    "product_id": 31,
+    "product_url": "https://down-sg.img.susercontent.com/file/64ff46ed347b6263b68f2a6d7e688eb3_tn",
+    "product": "Serum & Treatment",
+    "title": "MEDIPEEL Lif Tox Serum Lifting Ampoule 35ml",
+    "price": 0,
+    "volume": "35.0ml",
+    "description": "Product Description, 1 Areaspecific care for wrinkles around the eyes nasolabial folds forehead lips and neck by increasing skin proteins, 2 Lift the sagging and dull skin with marine retinol an enriched vitamin A and collagen threads, 2 Remove the applicator cap by turning it 34 times and insert the applicator into the center hole, 3 Tilt the bottle to take the necessary amount of the ampoule using the applicator, 4 Apply the ampoule to the area needing care and massage until fully absorbed, 5 Insert the syringe back into the bottle and store, Product Information, Volume Weight 35ml, Skin Type All Skin Types, Product Origin Made in Korea, We guarantee 100 Authentic or you will get a Money Back Guarantee, Warning Notice, Please be advised that MEDIPEEL is unable to guarantee the safety and overall product quality for counterfeit products purchased outside of MEDIPEELs officialauthorized sales routes Counterfeit products fall short of MEDIPEELs Quality Control standards and could possibly cause irritation as well as cause serious skin damage, MEDIPEEL OFFICIAL STORE, skinlift lifting wrinkle wrinklecare wrinklefree medipeelsingapore medipeel medipeelsg facial kbeauty koreanskincare syringeampoule moisturizing gold moisturising skinnutrients tiktokviral"
+  },
+  {
+    "product_id": 31,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "MEDI-PEEL"
+  },
+  {
+    "product_id": 31,
+    "relationship": "hasSkinType",
+    "entity_type": "skintype",
+    "entity_value": "all skin type"
+  },
+  {
+    "product_id": 31,
+    "relationship": "hasBenefits",
+    "entity_type": "benefits",
+    "entity_value": "Anti Aging"
+  },
+  {
+    "product_id": 31,
+    "relationship": "hasBenefits",
+    "entity_type": "benefits",
+    "entity_value": "Dullness/ Uneven texture"
+  },
+  {
+    "product_id": 31,
+    "relationship": "hasBenefits",
+    "entity_type": "benefits",
+    "entity_value": "Fineline/ Wrinkles"
+  },
+  {
+    "product_id": 32,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134201-7qvdb-lgd4ho702hhq07_tn",
+    "product": "Cleanser",
+    "title": "MELANO CC Vitamin C Brightening Enzyme Face Wash 130g",
+    "price": 0,
+    "volume": "130.0g",
+    "description": "MELANO CC Vitamin C Brightening Enzyme Face Wash 130g, Combine Vitamin C and Enzyme formula to deep clean pores while retaining the skins natural moisture It gently removes blackheads impurities and dead skin cells to reveal a soft smooth and glowing complexion, Vitamin C helps to fight pimples lighten pimple marks and face dark spots Protease Enzyme gently remove dead skin cells for brighter and smoother skin Kaolin Clay effectively removes excess oil dirt and impurities from pores that lead to acne breakout, Refreshing Citrus scent, Product Usage, Squeeze a sufficient amount onto your palm Lather with water and massage onto face using gentle circular motions Rinse thoroughly with water"
+  },
+  {
+    "product_id": 32,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "MELANO CC"
+  },
+  {
+    "product_id": 33,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7qve7-lii73hsl8hs6d9_tn",
+    "product": "Toners & Mists",
+    "title": "MIFFY EDITION THEFACESHOP Tea Tree Toner Pads",
+    "price": 0,
+    "volume": 0,
+    "description": "Main Features, Multi purpose pads that can be used as a toner pad as well as a soothing face mask It contains Tea Tree and Triple Acids that can help to control sebum exfoliate dead skin cells gently and minimize pore size"
+  },
+  {
+    "product_id": 33,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "THE FACE SHOP"
+  },
+  {
+    "product_id": 33,
+    "relationship": "hasSkinType",
+    "entity_type": "skintype",
+    "entity_value": "all skin type"
+  },
+  {
+    "product_id": 33,
+    "relationship": "hasBenefits",
+    "entity_type": "benefits",
+    "entity_value": "Acne/ Blemishes"
+  },
+  {
+    "product_id": 33,
+    "relationship": "hasBenefits",
+    "entity_type": "benefits",
+    "entity_value": "Blackheads"
+  },
+  {
+    "product_id": 33,
+    "relationship": "hasBenefits",
+    "entity_type": "benefits",
+    "entity_value": "Clogged Pores"
+  },
+  {
+    "product_id": 33,
+    "relationship": "hasIngredient",
+    "entity_type": "ingredient",
+    "entity_value": "Not Specified"
+  },
+  {
+    "product_id": 34,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rbk6-loz25dhp4o5i19_tn",
+    "product": "Serum & Treatment",
+    "title": "NOLAHOUR Brightening Microneedle Patch 12 Patches Red Spot Care from Acne Pimple Blemish  Overnight",
+    "price": 6.19,
+    "volume": 0,
+    "description": "Product Information\nProduct Name NOLAHOUR SPOT ERASER ORANGE\nPurpose Brightening Red Spot\nRed Spot Care  For Overnight\nCount 12 Patches in 14mm\nHow To Use \n Use the patch on dry cleansed skin before sleep\n Do not touch the middle of the patch\n Apply and gently press down for 3 seconds\n Remove the patch the next morning\n Ingredients \nSodium Hyaluronate Glutathione Glycerin Propanediol Gardenia Florida Fruit Extract Niacinamide Dextrin Trehalose 3OEthyl Ascorbic Acid Eriobotrya Japonica Leaf Extract Madecassoside 12Hexanediol Mentha Viridis Spearmint Extract Bisabolol\nCaution\nStop using the product if you see or experience redness or irritation after using this product If irritation persists please consult with a dermatologist Do not use on areas with wounds eczema or skin infections Do not use it on skin sensitive to\nbandages Keep out of reach of children Keep the unused patches in the package provided If swallowed get medical help or contact a Poison Control Center\n About US \nWe are committed to pursuing hypoallergenic and effective acne care through acnesoothing patented ingredients natural extracts  natural surfactants All ingredients are vegan  crueltyfree We are very proud of not using any controversial ingredients\nNOLAHOUR  SPOT ERASER SPOT DIRECT SHIPPING  SKINCARE BEAUTY KOREAN ACNE TREATMENT  Buy NOLAHOUR Brightening Microneedle Patch 12 Patches Red Spot Care from Acne Pimple Blemish  Overnight"
+  },
+  {
+    "product_id": 35,
+    "product_url": "https://down-sg.img.susercontent.com/file/c9a9813ffe75a320b3f8718b2efffaa9_tn",
+    "product": "Sun Care",
+    "title": "Numbuzin No1 Clear Filter Sun Essence 50ml SPF50 PA",
+    "price": 0,
+    "volume": "50.0ml",
+    "description": "Beware of imitations, If it is not an official store product it may not be authentic, No1 Clear Filter Sun Essence, Sunscreen with soothing skin carebenefits, What is so special, Lightweight but Effective 9177 Lasting Skin Protection with single application, Relieves redness with 498 calming herb water, Gently cools down heated skin, Hydrates and locks in moisture, Skin Type, all oily combination sensitive dry, Targets for, Strong  longlasting skin protection, Soothing skin, Hydrating skin, Cooling down skin, numbuzin recommendation for day time skin care routine, If you wear makeup add cleansing routine, Cleanser No1 Easy Peasy Cleansing Oil No3 Pore  Makeup Cleansing Balm with Green tea and Charcoal Toner PureFull Calming herb toner  Serum No7 Mild Green soothing Serum Cream No1 Purple Complex Moisture Balancing Soothing Cream, ROOT WATER CENTELLA ASIATICA EXTRACT, HOUTTUYNIA CORDATA EXTRACT WATER DIBUTYL ADIPATE PROPANEDIOLBUTYLOCTYL SALICYLATE, ETHYLHEXYL TRIAZONE TEREPHTHALYLIDENE DICAMPHOR SULFONIC ACID POLYMETHYLSILSESQUIOXANE, NIACINAMIDETROMETHAMINE POLYGLYCERYL3 DISTEARATE 12HEXANEDIOL PENTYLENE GLYCOL DIETHYLAMINO, HYDROXYBENZOYL HEXYL BENZOATE CETEARYL ALCOHOL CAPRYLYL METHICONE POLYSILICONE15, MELIA AZADIRACHTA LEAF EXTRACT COCCINIA INDICA FRUIT EXTRACT ECLIPTA PROSTRATA EXTRACT, MELIA AZADIRACHTA FLOWER EXTRACT ANASTATICA HIEROCHUNTICA EXTRACT HYACINTHUS, ORIENTALIS HYACINTH EXTRACT POLYGONATUM OFFICINALE RHIZOMEROOT EXTRACT LYCIUM CHINENSE FRUIT EXTRACT VELVET EXTRACT OPHIOPOGON JAPONICUS ROOT EXTRACT POLYGONUM, MULTIFLORUM ROOT EXTRACT ASTRAGALUS MEMBRANACEUS ROOT EXTRACT ATRACTYLODES LANCEA ROOT EXTRACT LAMINARIA JAPONICA EXTRACT ULMUS DAVIDIANA ROOT EXTRACT ALOE BARBADENSIS LEAF EXTRACT VIOLA MANDSHURICA FLOWER EXTRACT DIOSCOREA JAPONICA ROOT EXTRACT SODIUM HYALURONATE GLYCERYL STEARATE, BISETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE POTASSIUMCETYL PHOSPHATE BUTYLENE GLYCOL METHYLPROPANEDIOL CARBOMER ACRYLATESC1030 ALKYLACRYLATE CROSSPOLYMER GLYCERYL STEARATE, CITRATEETHYLHEXYLGLYCERIN XANTHAN GUM ADENOSINE POLYETHER1 MADECASSOSIDE BIOSACCHARIDE GUM1 GLYCERINDIMETHYLSILANOL HYALURONATE HYDROLYZED SODIUM HYALURONATE HYDROLYZED HYALURONIC ACID POTASSIUM HYALURONATE HYALURONIC ACIDSODIUM HYALURONATE CROSSPOLYMER HYDROXYPROPYLTRIMONIUM HYALURONATE SODIUM HYALURONATE DIMETHYLSILANOL SODIUM ACETYLATED HYALURONATE, For more information please refer to the photos"
+  },
+  {
+    "product_id": 35,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "numbuzin"
+  },
+  {
+    "product_id": 36,
+    "product_url": "https://down-sg.img.susercontent.com/file/1551dbbbe555fb92740bf027bf783dab_tn",
+    "product": "Mask",
+    "title": "ONLYSkin Glass Skin Matters Hydrophilic Mask 50ml",
+    "price": 79.83,
+    "volume": "50.0ml",
+    "description": "Experience beautifully redefined skin with Glass Skin Matters Hydrophilic Mask\nDriven by AIs ingenuity this elixir boasts up to a 70 infusion of Type I collagen seamlessly fusing with the skin via innovative transdermal mastery\nEmanate an ethereal glasslike glow that lasts for a full 24 hours while gracefully addressing aging concerns\nThe T1 Collagen Mask represents an innovative skincare solution meticulously designed to create a transparent film facilitating its application to any desired area at your convenience This mask leverages advanced technologies including the Transdermal Delivery System TDS and the Occlusive Dressing Technique ODT to efficiently deliver collagen and other active ingredients deep into the skin\nAddress the fine lines and creases in your skin with our Hydrolyzed Collagen Cream Our pioneering cream is engineered to form a film that effectively transports collagen peptides into the skin progressively enhancing skin texture and diminishing signs of aging over time Additionally it is enriched with vitamins and antioxidant botanicals offering an added layer of balance and refinement to your skin This versatile product can be used at any time in any place to bestow a youthful glow upon your skin\nUnlike regular collagen molecules which are often too large to penetrate the dermal layer we employ hydrolyzed collagen with a reduced molecular size ensuring optimal absorption by the skin Furthermore our product incorporates TDS and ODT guaranteeing the effective delivery of collagen and other active ingredients deep into the skin all while mitigating the risk of physical or chemical irritation\nIn the human body there exist 28 distinct types of collagen Type I collagen is the most prevalent particularly within the skin where it plays a crucial role in structuring and rejuvenating skin tissues It is worth noting that dermatologists and dentists frequently turn to Type I collagen to expedite the wound healing process\nInstant Glass Skin Glow\nReverse skins aging process\nEnhance collagen production\nProprietary AI delivery system\nHow To Apply \nIt is recommended to apply Glass Skin Matters Hydrophilic Mask daily or minimally 23 times a week for best results\nStep 1\nCleanse your skin  apply toner before masking\nStep 2\nApply approximately 67g on the entire face andor neck\nStep 3\nLeave it on for 30  60 minutes until a clear film is formed\nStep 4\nPeel off the clear film after do not rinse off\nIngredients\nVitamin B3 Vitamin B5 Provence Rose Extract Green Tea Extract Licorice Root Extract Cypress Extract Propolis Extract Lifting 7 Complex Bottle Extract Pomegranate Extract Acetylhexa Peptide8 Caper Tripeptide1 Royal Jelly Extract Idvenon Port Marigold Flower Extract AntiOxidant 7 Complex Rice Bran Extract Vitamin C Acerras Extract Vitamin E Damask Rose Extract Bulgarian Rose Aronia Fruit Extract Vaginalis Extract\nOur formulations are updated from time to time as part of our commitment to innovation As such the ingredient list shown here may vary from the box of the product or listing on wwwonlyskinsg website depending on time and region of purchase\nGSM ONLINE EXCLUSIVE LAUNCH PRICE Bundle Deal \nBUY 1 50ml of GSM Mask  95\nBUY 3 50ml of GSM Mask  273 \nBUY 6 50ml of GSM Mask  520\nBUY 12 50ml of GSM Mask  934\nTo order a bundle deal visit  \nhttpsonlyskinsgshopseriesforfaceglassskinmattershydrophilicmask  Buy ONLYSkin Glass Skin Matters Hydrophilic Mask 50ml"
+  },
+  {
+    "product_id": 37,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rblb-lns9bmk0jrgo27_tn",
+    "product": "Cleanser",
+    "title": "Pyunkang Yul ACNE Facial Cleanser 120ml",
+    "price": 0,
+    "volume": "120.0ml",
+    "description": "Pyunkang Yul ACNE Facial Cleanser, pyunkangyul ACNE Facial Cleanser, Description, Effects such as peptights and white willows regulate excessive sebum secretion so that hot skin calms down quickly, Pair with ACNE line products for boosting acneclearing effect, Suggested Use, It lathers sensitive and hot skin and cleanses it gently without worrying about irritation"
+  },
+  {
+    "product_id": 37,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "Pyunkang Yul"
+  },
+  {
+    "product_id": 37,
+    "relationship": "hasSkinType",
+    "entity_type": "skintype",
+    "entity_value": "Acne-prone, Combination Skin, Oily Skin, Sensitive"
+  },
+  {
+    "product_id": 38,
+    "product_url": "https://down-sg.img.susercontent.com/file/7fc951abd40fc1368ce6e7a1b49f237d_tn",
+    "product": "Sun Care",
+    "title": "ROUND LAB Birch Juice Moisturizing Sun Cushion 15g",
+    "price": 0,
+    "volume": "15.0g",
+    "description": "A nonnano physical sun cushion that protects you from UV rays and allows you to apply it faster and easier than manual application"
+  },
+  {
+    "product_id": 38,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "ROUND LAB"
+  },
+  {
+    "product_id": 38,
+    "relationship": "hasSkinType",
+    "entity_type": "skintype",
+    "entity_value": "all skin type"
+  },
+  {
+    "product_id": 38,
+    "relationship": "hasForm",
+    "entity_type": "form",
+    "entity_value": "Cushion"
+  },
+  {
+    "product_id": 39,
+    "product_url": "https://down-sg.img.susercontent.com/file/4d33ae6ad2306f4cd8ce19b9b18b6605_tn",
+    "product": "Sun Care",
+    "title": "ROUND LAB Birch Juice Moisturizing Sun Stick 19g",
+    "price": 0,
+    "volume": "19.0g",
+    "description": "A hydrating sun stick that delivers a lightweight finish with cooling effects The product offers clinicallyproven SPA 50 PA sun protection"
+  },
+  {
+    "product_id": 39,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "ROUND LAB"
+  },
+  {
+    "product_id": 40,
+    "product_url": "https://down-sg.img.susercontent.com/file/e881b5e5e2e428c597ad4364f5dc18a2_tn",
+    "product": "Toners & Mists",
+    "title": "THANK YOU FARMER Rice Pure Essential Toner 200ml",
+    "price": 36.33,
+    "volume": "200.0ml",
+    "description": "2IN1 Toner  Essence Fastabsorbing  nonsticky milky formula works to improve skin texture and reduce the appearance of dullness It spreads gently over your skin hydrates and soothes irritated skin\nKorean Rice Extract made by THANKYOU FARMER  We have worked with local farmers to consistently harvest highquality rice for making Rice Extract Rice grown in 100 clean pollutionfree area After harvesting we extract active ingredients using lowtemperature technology that does not destroy the rices beneficial nutrients\n100000ppm Rice Extract helps clarify moisturize and soften skin Rice has been used as a skin care ingredient in Korea since ancient times\nHypoallergenic dermatologically tested Free from Parabens Phenoxyethanol Benzophenone Ethanol Triethanolamine Chlorphenesin Color Fragrance\nHow to use  After cleansing take an appropriate amount of toner on the palm or cotton pad and gently spread it over the entire face\nIdeal Skin Type Dry Combination\nFormulation Concentrated essence\nHighlighted Ingredients\nOryza Sativa Rice Bran Extract Brightening\nLotus Flower Extract Pore care\nCentaurea Cyanus Flower Water Hydrating\nCentella Asiatica Extract Soothing\nClinical Results Dermatologically tested  Nonirritating\nIngredients\nWATER ORYZA SATIVA RICE EXTRACT DIPROPYLENE GLYCOL PROPANEDIOL 12HEXANEDIOL NIACINAMIDE CENTELLA ASIATICA EXTRACT FICUS CARICA FIG FRUIT EXTRACT NELUMBIUM SPECIOSUM FLOWER EXTRACT ULMUS DAVIDIANA ROOT EXTRACT AMARANTHUS CAUDATUS SEED EXTRACT HYDROGENATED LECITHIN CENTAUREA CYANUS FLOWER WATER GLYCERIN DIPHENYL DIMETHICONE TRIETHYLHEXANOIN POLYGLYCERYL10 MYRISTATE ACRYLATESC1030 ALKYL ACRYLATE CROSSPOLYMER BUTYLENE GLYCOL TROMETHAMINE DISODIUM EDTA CERAMIDE NP ETHYLHEXYLGLYCERIN\nExpiry  36 Months for manufacture date  Buy THANK YOU FARMER Rice Pure Essential Toner 200ml"
+  },
+  {
+    "product_id": 41,
+    "product_url": "https://down-sg.img.susercontent.com/file/54dcf7d99f6b36347bb3386385036e40_tn",
+    "product": "Mask",
+    "title": "THANK YOU FARMER Saccharomy Brightening Star Sheet Mask",
+    "price": 5.45,
+    "volume": 0,
+    "description": "Ideal Skin Type Dry\nFormulation Sheet mask\nHighlighted Ingredients\nSaccharomyces Brightening firming\nFermented Rice Extract Improving skin texture\nDioscorea Japonica Root Extract Moisturizing\nAdenosine Reducing wrinkles\nNiacinamide Brightening hydrating\nClinical Results Dermatologically tested  Nonirritating\nHOW TO USE\nAfter cleansing and applying toner remove the sheet mask from the packaging and put it carefully on the face\nLeave it on for 1020 minutes remove and tap the remaining product on your face\nINGREDIENTS\nWater Butylene Glycol Glycerin Niacinamide 12Hexanediol Saccharomyces Ferment Dioscorea Japonica Root Extract Hibiscus Esculentus Fruit Extract Nelumbo Nucifera Root Extract Angelica Archangelica Root Extract Corchorus Olitorius Leaf Extract Rice Ferment Filtrate Betaine Allantoin Adenosine Dipotassium Glycyrrhizate Sodium Hyaluronate Arginine PVMMA Copolymer Sodium Polyacrylate Carbomer Glyceryl AcrylateAcrylic Acid Copolymer Disodium EDTA Ethylhexylglycerin\nExpiry  36 months from manufacture date\nPeriod of UsePeriod After Opening  Use immediately after opening  Buy THANK YOU FARMER Saccharomy Brightening Star Sheet Mask"
+  },
+  {
+    "product_id": 42,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rbl7-lqd0kyzo64ww0b_tn",
+    "product": "Sun Care",
+    "title": "THANK YOU FARMER Skin Tone Up Total Cream 40ml",
+    "price": 0,
+    "volume": "40.0ml",
+    "description": "Ideal Skin Type Combination  Oily, Formulation Lightweight cream, Glutathione Iimproving skin elasticity, Niacinamide Brightening moisturizing, Corchorus Olitorius Leaf Extract Moisturizing, Hordeum Vulgare Seed Extract Soothing, Nymphaea Alba Flower Extract Reducing wrinkles and fine lines, Clinical Results Dermatologically tested  Nonirritating"
+  },
+  {
+    "product_id": 42,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "THANK YOU FARMER"
+  },
+  {
+    "product_id": 42,
+    "relationship": "hasForm",
+    "entity_type": "form",
+    "entity_value": "Liquid"
+  },
+  {
+    "product_id": 42,
+    "relationship": "hasSkinType",
+    "entity_type": "skintype",
+    "entity_value": "all skin type"
+  },
+  {
+    "product_id": 43,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7qvfg-lgd3hidb660wb8_tn",
+    "product": "Cleanser",
+    "title": "TRUU 76 Probiotics Cleanser  Gold Brightening Treatment Mask",
+    "price": 0,
+    "volume": 0,
+    "description": "Buy TRUU 76 Probiotics Cleanser  Gold Brightening Treatment Mask"
+  },
+  {
+    "product_id": 43,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "TRUU"
+  },
+  {
+    "product_id": 43,
+    "relationship": "hasIngredient",
+    "entity_type": "ingredient",
+    "entity_value": "Fragrance Free"
+  },
+  {
+    "product_id": 43,
+    "relationship": "hasIngredient",
+    "entity_type": "ingredient",
+    "entity_value": "Paraben-free"
+  },
+  {
+    "product_id": 43,
+    "relationship": "hasIngredient",
+    "entity_type": "ingredient",
+    "entity_value": "Peptides"
+  },
+  {
+    "product_id": 43,
+    "relationship": "hasSkinType",
+    "entity_type": "skintype",
+    "entity_value": "all skin type"
+  },
+  {
+    "product_id": 43,
+    "relationship": "hasIngredient",
+    "entity_type": "ingredient",
+    "entity_value": "24K Gold"
+  },
+  {
+    "product_id": 43,
+    "relationship": "hasIngredient",
+    "entity_type": "ingredient",
+    "entity_value": "ProXylane"
+  },
+  {
+    "product_id": 44,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7qvdj-lh5rltrjhtus32_tn",
+    "product": "Sun Care",
+    "title": "The Derma Co Blue Light Protection 1 Hyaluronic Sunscreen Aqua Gel With SPF 50  50 GM",
+    "price": 0,
+    "volume": 0,
+    "description": "Good skin comes to those who wear sunscreen every day and thats why The Derma Co brings to you SPF 50 sunscreen with PA The Derma Co 1 Hyaluronic Sunscreen Aqua Gel with Vitamin E protects your skin from not just UVAUVB rays but blue light too Its quickabsorbing formula makes it a part of your skin without leaving any white casts Its time to kiss goodbye to sun damage and go filterfree in your next selfie Dermatologically tested this sunscreen aqua gel with vitamin E is nongreasy and fragrancefree making it suitable for all skin types, Features, Provides broadspectrum protection PA, The PA grading system in sunscreens indicates the level of protection from UVA rays Therefore the presence of more than three  signs indicates that the sunscreen provides the best protection against UVA rays The Derma Co SPF 50 1 Hyaluronic Sunscreen with Aqua Gel PA is formulated with an effective combination of hyaluronic acid and vitamin E while reducing fine lines and wrinkles and leaving your skin soft and supple, Protection against blue light, Blue light is a type of highenergy visible light emitted by many electronic devices The blue light from these devices not only disrupts our sleep cycle but also causes great damage to our skin Thats why The Derma Co brings you 1 Hyaluronic Sunscreen Aqua Gel with vitamin E that not only protects your skin from the sun but also screens Your skins new BFF for whats healthy and damagefree, Nongreasy and fragrancefree, Say goodbye to the greasy and oily finish of typical sunscreens The Derma Co 1 Hyaluronic Sunscreen Aqua Gel is fragrancefree and does not clog your pores The presence of 1 concentration of hyaluronic acid in this sunscreen makes it quick to absorb and provides intense hydration to the skin Extremely mild in nature sunscreen dissolves like water hence the name aqua gel, Safe and effective formulation, Free from toxins and fragrance this sunscreen with PA has a safe and effective formulation that delivers visible difference in 36 weeks, Suitable for People looking for nongreasy fragrancefree broad spectrum protection against UV rays and blue light Anyone with normal oily acneprone or blemishprone skin can use this sunscreen, Directions for Use, Take an adequate amount of 1 Hyaluronic Sunscreen Aqua Gel and apply it on your face neck and other exposed areas of the skin, Avoid eye contour and contact with the eyes during application, Reapply every 4 hours to keep your skin protected and healthy"
+  },
+  {
+    "product_id": 44,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "The Derma Co"
+  },
+  {
+    "product_id": 44,
+    "relationship": "hasSkinType",
+    "entity_type": "skintype",
+    "entity_value": "all skin type"
+  },
+  {
+    "product_id": 45,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7qvco-lgorrtvr52hm3c_tn",
+    "product": "Toners & Mists",
+    "title": "The Ordinary Glycolic Acid 7 Toning Solution 240ml",
+    "price": 23.53,
+    "volume": "240.0ml",
+    "description": "Feature\nAn exfoliating toning solution with seven percent glycolic acid amino acids aloe vera ginseng and tasmanian pepperberry\nThis 7 Toning Solution offers mild exfoliation for improved skin radiance and visible clarity\nThe formula also improves the appearance of skin texture with continued use\nVolume\n240ml\nHow To Use\nUse ideally in the PM and do not exceed oncedaily use After cleaning saturate a cotton pad with the formula and sweep across face and neck Do not rinse off Continue with additional skin treatments as needed  Buy The Ordinary Glycolic Acid 7 Toning Solution 240ml"
+  },
+  {
+    "product_id": 46,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7qvcp-lhsn0wnvax14c1_tn",
+    "product": "Serum & Treatment",
+    "title": "Torriden Official BALANCEFUL Cica Serum for Sebum and Dead Skin Cells Relieve Redness for acne prone skin 50ml",
+    "price": 0,
+    "volume": "50.0ml",
+    "description": "u \n Main Point\n Intense soothing\n Hypoallergenic on sensitive skin\n Non Comedogenic Tested\n Skin Concerns\nSensitive Combination skin and oily skin\n Benefits\n Soothes skin irritated  reddened by chemical irritation\n Soothes sensitive skin daily with the nonsticky hydrating formula\n Repairs the damaged skin\n How To Use\n1 After evening out the skin texture and apply evenly on skin\n2 Apply one or two more layers when your skin feels extra sensitive\n Ingredients\nWater Butylene Glycol Glycerin Dipropylene Glycol 12Hexanediol Glycereth26 Panthenol Centella Asiatica Extract Madecassic Acid Asiaticoside Asiatic Acid Madecassoside Allantoin Swertia Japonica Extract Nymphaea Caerulea Flower Extract Lactobacillus Ferment Althaea Rosea Flower Extract Sodium Hyaluronate Hydrolyzed Hyaluronic Acid Hyaluronic Acid Hydroxypropyltrimonium Hyaluronate Potassium Hyaluronate Sodium Hyaluronate Crosspolymer Sodium Acetylated Hyaluronate Betaine Capryloyl Salicylic Acid Dipeptide2 Dipotassium Glycyrrhizate Pentylene Glycol Sodium Stearoyl Glutamate Propanediol Isopentyldiol Glyceryl AcrylateAcrylic Acid Copolymer PVMMA Copolymer Caproic Acid Polyglyceryl4 Oleate Sodium Surfactin Carbomer Xanthan Gum Tromethamine Sodium Acetate Melia Azadirachta Leaf Extract Melia Azadirachta Flower Extract Disodium EDTA Ethylhexylglycerin\n    \n     \n       \n       \ntorriden serum torridentoner torridenserum balanceful skincare koreanskincare sensitiveskin soothing moisturizer moisturizing calming repairskin  Buy Torriden Official BALANCEFUL Cica Serum for Sebum and Dead Skin Cells Relieve Redness for acne prone skin 50ml"
+  },
+  {
+    "product_id": 47,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7qvg6-ljw2g91dexoldc_tn",
+    "product": "Sun Care",
+    "title": "Torriden Official BALANCEFUL Tone up sunscreen for skin correcting Natural dull skin tone up effect not sticky foundation free SPF 50 PA 60ml",
+    "price": 17.45,
+    "volume": "60.0ml",
+    "description": "Main Point\n3in1 sun defense toneup sun cream\n Redness correction\n Powerful sun protection SPF 50 PA\n For skin that is sensitive in all four seasons\n Skin Concerns\nUV protection antiwrinkle  brightening cosmetics\n Benefits\n5D CICA ingredients\nGreenfit tone correction\nSafe for sensitive skin\n How To Use\nStep 1 After texturizing the skin apply on areas prone to sun exposure such as the forehead nose bridge eye area and front cheek\nStep 2 Pat for skin absorption\n Tip\n Daily solution for a natural tone correction\n Makeup base alternative Foundation Free\n Recommended to use at the end of your skincare routine and before applying foundation\n Ingredients\nWater Zinc Oxide CI 77947 Propanediol Butyloctyl Salicylate Methyl Trimethicone Cyclohexasiloxane CocoCaprylateCaprate Isododecane Triethylhexanoin Niacinamide Dicaprylyl Carbonate Propylheptyl Caprylate Methyl Methacrylate Crosspolymer Centella Asiatica Extract Madecassic Acid Asiaticoside Asiatic Acid Madecassoside Panthenol Allantoin Lactobacillus Ferment Althaea Rosea Flower Extract Adenosine Tocopherol Caprylyl Methicone Lauryl Polyglyceryl3 Polydimethylsiloxyethyl Dimethicone 12Hexanediol Caprylyl Glycol Glyceryl Caprylate Polyglyceryl3 Polydimethylsiloxyethyl Dimethicone Magnesium Sulfate Dipropylene Glycol Triethoxycaprylylsilane Mica CI 77019 Polyglyceryl2 Dipolyhydroxystearate Disteardimonium Hectorite Lauryl DimethiconePolyglycerin3 Crosspolymer Aluminum Hydroxide Titanium Dioxide CI 77891 Chromium Oxide Greens CI 77288 Sodium Citrate Swertia Japonica Extract Nymphaea Caerulea Flower Extract\n    \n     \n       \n       \ntorriden toneup toneupsunscreen foundationfree mineralsunscreen sensitiveskin makeupsunscreen spf50 pa UVprotection sunblock  Buy Torriden Official BALANCEFUL Tone up sunscreen for skin correcting Natural dull skin tone up effect not sticky foundation free SPF 50 PA 60ml"
+  },
+  {
+    "product_id": 48,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7qvdc-lh794u9v5foc23_tn",
+    "product": "Gift Sets",
+    "title": "Try  Buy Philosophy Starter Kit Cleanse Serum Moisturizer Fragrance",
+    "price": 0,
+    "volume": 0,
+    "description": "This set contains the following\n1 x Philosophy Purity Made Simple OneStep Facial Cleanser 7ml\n2 x Philosophy purity made simple pore minimizing serum 15ml\n1 x Philosophy Hope In A Jar SmoothGlow MultiTasking Moisturizer 7ml\n1 x Philosophy Hope In A Jar Hyaluronic Glow Moisturiser Water Cream 7ml\n1 x Philosophy Amazing Grace Eau De Toilette 15ml  Buy Try  Buy Philosophy Starter Kit Cleanse Serum Moisturizer Fragrance"
+  },
+  {
+    "product_id": 49,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7qvf6-lgt11m514zijde_tn",
+    "product": "Lip Care",
+    "title": "Unleashia Vegan Glacier Balm",
+    "price": 0,
+    "volume": 0,
+    "description": "Unleashias Glacier Vegan Lip Balm offers a brilliant and colorful shine no matter the light conditions Featuring glitter pearls cut at multiple angles this lip balm has a transparent base with light gold pearland natural complexion with colorful pink blue and white silver pearls Perfect for adding a touch of sparkle to any look this chameleon lip balm will take your style up a notch, Available in 2 shades, No1 Snow Frost  No2 Blue Lagoon, Glacier Vegan Lip Balm No1 Snow FrostA glitter lip balm that shines brilliantly and colorfully depending on the light encountered with the glitter pearls elaborately cut from multiple angles a lip balm that develops transparent color with light gold pearl, Glacier Vegan Lip Balm No2 Blue LagoonA glitter lip balm that shines in various ways depending on the light it encounters with glitter pearls delicately cut from multiple angles and a chameleon lip balm that adds natural complexion with colorful pink blue and white silver pearls, Frequency, As desired, Amount, As desired, Results, Unleashias Glacier Vegan Lip Balmhelps shine your lips while moisturizing them intensely, POLYGLYCERYL2 TRIISOSTEARATE SYNTHETIC WAX DIISOSTEARYL MALATE HYDROGENATED POLYISOBUTENE POLYISOBUTENE PHYTOSTERYLISOSTEARYLCETYLSTEARYLBEHENYL DIMER DILINOLEATE DIMER DILINOLEYL DIISOSTEARATE OCTYLDODECANOL BISBEHENYLISOSTEARYLPHYTOSTERYL DIMER DILINOLEYL DIMER DILINOLEATE PENTAERYTHRITYL TETRAISOSTEARATEBISDIGLYCERYL POLYACYLADIPATE2 SILICA DIMETHYL SILYLATE ETHYLENEPROPYLENE COPOLYMER CALCIUM ALUMINUM BOROSILICATE DISTEARDIMONIUM HECTORITE SILICA TITANIUM DIOXIDE PROPYLENE CARBONATE BUTYROSPERMUM PARKII SHEA BUTTER TIN OXIDE TOCOPHEROL WATER BUTYLENE GLYCOL 12HEXANEDIOL RETINYL PALMITATEBIOFLAVONOIDS ASCORBIC ACID HESPERIDIN DEHYDROACETIC ACID, Glacier Vegan Lip Balm No2 Blue Lagoon, POLYGLYCERYL2 TRIISOSTEARATE SYNTHETIC WAX DIISOSTEARYL MALATE HYDROGENATED POLYISOBUTENE POLYISOBUTENE PHYTOSTERYLISOSTEARYLCETYLSTEARYLBEHENYL DIMER DILINOLEATE DIMER DILINOLEYL DIISOSTEARATE OCTYLDODECANOL BISBEHENYLISOSTEARYLPHYTOSTERYL DIMER DILINOLEYL DIMER DILINOLEATE BISDIGLYCERYL POLYACYLADIPATE2 SILICA DIMETHYL SILYLATE ETHYLENEPROPYLENE COPOLYMER CALCIUM ALUMINUM BOROSILICATE CALCIUM TITANIUM BOROSILICATE TITANIUM DIOXIDE SILICA BUTYROSPERMUM PARKII SHEA BUTTER TIN OXIDE CITRIC ACID TOCOPHEROL WATER BUTYLENE GLYCOL 12HEXANEDIOL RETINYL PALMITATE BIOFLAVONOIDS ASCORBIC ACID HESPERIDIN DEHYDROACETIC ACID RED 21CI 453802 BLUE 1 LAKECI 42090"
+  },
+  {
+    "product_id": 49,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "UNLEASHIA"
+  },
+  {
+    "product_id": 49,
+    "relationship": "hasForm",
+    "entity_type": "form",
+    "entity_value": "Stick"
+  },
+  {
+    "product_id": 50,
+    "product_url": "https://down-sg.img.susercontent.com/file/tw-11134201-23020-cwwfcvfensnvda_tn",
+    "product": "Lip Care",
+    "title": "hince Mood Enhancer Lip Glow  hince Official Store",
+    "price": 25.07,
+    "volume": 0,
+    "description": "Net 55g\nExpiration Date 30 months after manufacture 12 months after opening\nCountry of Manufacture South Korea\nExamination of Functional Cosmetics by Ministry of Food and Drug Safety Not applicable\nQuality Guarantee Compensation for defective products is provided according to Fair Trade Commission standards\nCautions for Use 1 If you experience any symptoms such as redness swelling or itchiness during usage or from exposure to direct sunlight after usage suspend use and consult a physician 2 Do not use the product on wounds or any area of skin irritation 3 Storage and handling precautions a Keep away from the reach of children b Keep away from direct sunlight\nPlease note that returns or exchanges will not be accepted if packages are damaged the stickerseal is removed or there is any trace of usage  Buy hince Mood Enhancer Lip Glow  hince Official Store"
+  },
+  {
+    "product_id": 51,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-23010-9mus2jfdzimvda_tn",
+    "product": "Toners & Mists",
+    "title": "numbuzin No1 Purefull Calming Herb Toner 100ml  300ml",
+    "price": 6.76,
+    "volume": "100.0ml",
+    "description": "Beware of imitations \n If it is not an official store product it may not be authentic\n No1 Purefull calming herb toner\nRefreshingly calming green toner made with three calming herb extracts will deeply calm your skin and fill in the hydration it needs\n What is so special\n Noncomedogenic Test Completed\n Acneprone  sensitive skin can use it without any irritation \n Effective soothing herbs for your skin care\n Three kinds of soothing herbs quickly calm down irritated sensitive skin by filling in hydration layer by layer for clearedup transparent skin\n Skin type\nFor all especially sensitive dry acneprone and combination skin type\n Targets for \n Clearing up acne\n Removing whiteheads blackheads\n Diminishing red spots\n Removing blemish scars\n numbuzin recommendation for skin care routine\nIf you wear makeup add cleansing routine\nCleanser No1 Easy Peasy Cleansing Oil No3 Pore  Makeup Cleansing Balm with Green tea and Charcoal Toner No1 Purefull calming herb toner Serum No3 Skin Softening Serum  Cream No2 Cica Ceramide Repair Cream\nIngredients\nCentella Asiatica Extract Houttuynia Cordata Extract Glycyrrhiza Uralensis Licorice Root Extract 12Hexan \nediol Dipropylene Glycol Propanediol Butylene Glycol Glycerin Hyacinthus Orientalis Hyacinth Extract \nPolygonum Multiflorum Extract Carbomer Hydroxyethylcellulose Arginine Allantoin Disodium EDTA \nNymphaea Alba Flower Extract Betaine Panthenol\nFAQ\nQ Is No1 Goodbye Deadcell toner and No1 Purefull calming herb toner different \nA Yes No1 Goodbye Deadcell toner is discontinued \n     It is renewed as No1 Purefull calming herb toner \n\nQ When is the useby date \nA 12 months after opening the product   Buy numbuzin No1 Purefull Calming Herb Toner 100ml  300ml"
+  },
+  {
+    "product_id": 52,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rbln-lnb4bqryutwq6c_tn",
+    "product": "Sun Care",
+    "title": "numbuzin No1 Purefull Calming Water Sunscreen SPF50 PA 50ml",
+    "price": 0,
+    "volume": "50.0ml",
+    "description": "Feature\nA water sunscreen that is full of moisture and provides a dense and reliable 10fold water film It replenish skin with moisture and fully moisturize dry skin\nContains 498 of sedative plants in sunscreen to soothe the skin irritated by UV rays and replenish it with clear moisture\nVolume\n50ml\nHow To Use\nTake an appropriate amount and spread it all over the face along the skin texture  Buy numbuzin No1 Purefull Calming Water Sunscreen SPF50 PA 50ml"
+  },
+  {
+    "product_id": 53,
+    "product_url": "https://down-sg.img.susercontent.com/file/87bbc3a6c4e76da4241b8cddc9887669_tn",
+    "product": "Serum & Treatment",
+    "title": "papa recipe Retinol Bakuchiol Serum 30ml",
+    "price": 0,
+    "volume": "30.0ml",
+    "description": "papa recipe Official Store, For Rough and Uneven Skin Texture Retinol Bakuchiol Serum accelerates the skin turnover rate to help exfoliate dead skin cells and restore damaged skin, Skin Irritation Down Retinol and bakuchiol combined formula to minimize irritation but retained the effect Fine to use daily, RetinolBakuchiol  Adenosine help with wrinkles as retinol bakuchiol help improve wrinkles and revitalize the skin, 2 Doubleapply on areas wehre you feel needed, 3 Apply moisturizing cream after for better hydration, CAUTION, Please dont use it with skin whitening products as it can irritate the skin, Please dont use it with peeling products such as BHA and AHA as it can irritate the skin, Please dont use it if you are pregnant as retinol is contained, Temporary exfoliation of dead skin cells may occur during initial use but it is an adaptation period due to activation of skin turnover rate hence please do not remove dead skin cells with force, If your skin is highly sensitive please test the product on your neck or behind your ears, Please apply sunscreen as the skin can be irritated by UV, Volume 30ml, Product Origin KOREA, Shipping from Korea, Our story, How we got our start, Papa Recipe began from the love of a father whose daughter was suffering from skin disease The father studied healthy cosmetic for his daughter and was able to make an organic jojoba oil Cosmetic brand Papa Recipe was born from the thought of making a recommendable product to those we care, What makes our product unique, Why we love what we do, We not only share about skin but also share our green lifestyle to continue healthy life We wish to guide our customers who are suffering from all kinds of skin troubles and issues We feel worthwhile through guiding and our goal is to guide those in need of a help"
+  },
+  {
+    "product_id": 53,
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "entity_value": "papa recipe"
+  },
+  {
+    "product_id": 54,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rbl3-lqkb2tztxric53_tn",
+    "product": "Lip Care",
+    "title": "romnd Glasting Melting Balm 35g",
+    "price": 9.28,
+    "volume": "35.0g",
+    "description": "romnd Glasting Melting Balm 35g\nFeature\nA vibrant color balm that spreads vibrant colors as soon as its applied\nThe water retention system creates a highly moisturizing protective film that blocks moisture from escaping due to its elastic consistency\nColor Option  Volume\n01 Coco nude\n02 Lovey pink\n03 Sorbet balm\n04 Hippie berry\n05 Nougat sand\n06 Kaya fig\n07 Mauve whip\n08 Coralia\n09 Peonies\n10 Nu Beige\n11 Buffy Coral\n12 Veiled Rose\n13 Scotch Nude\n14 Dear Apple\n15 Pecan Brew\nHow to use\nGently apply to the lip line Only use a small amount as it can break if you raise or lower a large amount\nStore in a place with little exposure to light as the color may change when exposed to strong light sunlight fluorescent light shop lighting etc for a long time avoid storage at high temperatures and below freezing  Buy romnd Glasting Melting Balm 35g"
+  }
+]
