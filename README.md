@@ -33,4 +33,4 @@ a. How to use LLM to extract new relations from product descriptions and constru
 b. Methods to query the graph database (based on embeddings, LLM-generated entities in prompt, Cypher)
 
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "Image of Knowledge Graph")
+![Alt text](https://github.com/dianaow/products-knowledge-graph/graph_overview.png "Image of Knowledge Graph")
