@@ -1,0 +1,1182 @@
+[
+  {
+    "entity_value": "helps minimize the appearance of enlarged pores brightening and contributes to an even skin tone and complexion",
+    "entity_type": "description",
+    "product_id": 1,
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_type": "description",
+    "product_id": 1,
+    "relationship": "hasDescription",
+    "entity_value": "results are an excerpt from the study conducted by the global institute of dermatological sciences with 22 participants during the test period from sep 7th 2023 individual results may vary"
+  },
+  {
+    "entity_value": "Aprilskin",
+    "product_id": 1,
+    "relationship": "hasBrand",
+    "entity_type": "brand"
+  },
+  {
+    "entity_type": "description",
+    "product_id": 1,
+    "entity_value": "study results",
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_value": "2 leave on for 2025 mins or until it completely dries",
+    "entity_type": "description",
+    "product_id": 1,
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_value": "3 gently peel off the mask from outer edges and wipe away any excess with a fresh clean towel",
+    "entity_type": "description",
+    "product_id": 1,
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_value": "helps soothe and calm the skin and alleviates puffiness and irritation",
+    "entity_type": "description",
+    "product_id": 1,
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_type": "description",
+    "product_id": 1,
+    "entity_value": "pore impurities reduced by 975 after one use",
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_type": "description",
+    "product_id": 1,
+    "relationship": "hasDescription",
+    "entity_value": "3 wait until mask dries completely for easier removal"
+  },
+  {
+    "entity_value": "skin radiance increased by 55 after one use",
+    "entity_type": "description",
+    "product_id": 1,
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_type": "description",
+    "product_id": 1,
+    "relationship": "hasDescription",
+    "entity_value": "the drying time may vary depending on your skin conditionn towel"
+  },
+  {
+    "entity_value": "2 apply using the jelly brush for even application",
+    "entity_type": "description",
+    "product_id": 1,
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_type": "description",
+    "product_id": 1,
+    "relationship": "hasDescription",
+    "entity_value": "01 niacinamide"
+  },
+  {
+    "entity_type": "description",
+    "product_id": 1,
+    "relationship": "hasDescription",
+    "entity_value": "1 after cleansing apply an even layer to dry skin avoiding eyes lips and hairline"
+  },
+  {
+    "entity_type": "description",
+    "product_id": 1,
+    "relationship": "hasDescription",
+    "entity_value": "rich in antioxidants this timetested healing flower helps shed dullness and calms skin redness"
+  },
+  {
+    "volume": 0,
+    "fav_num": 967,
+    "product": "Exfoliators & Scrubs",
+    "product_id": 1,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11110105-7rcei-ltummfonff2z62_tn",
+    "price": 20.7,
+    "sold_num": "3k",
+    "title": "Aprilskin Official Real Calendula Peel Off Pack  Renewal"
+  },
+  {
+    "entity_value": "pore area decreased by 234 after one use",
+    "entity_type": "description",
+    "product_id": 1,
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_type": "description",
+    "product_id": 1,
+    "entity_value": "calendula",
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_type": "description",
+    "product_id": 1,
+    "relationship": "hasDescription",
+    "entity_value": "blackheadswhiteheads visibility improved by 1288 after one use"
+  },
+  {
+    "entity_value": "phabha",
+    "entity_type": "description",
+    "product_id": 1,
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_type": "description",
+    "product_id": 1,
+    "relationship": "hasDescription",
+    "entity_value": "dead skin cells reduced by 685 after one use"
+  },
+  {
+    "entity_type": "description",
+    "product_id": 1,
+    "relationship": "hasDescription",
+    "entity_value": "removing dead skin cells promoting smoother skin"
+  },
+  {
+    "entity_value": "nourishes with royal jelly",
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 2
+  },
+  {
+    "relationship": "hasBenefits",
+    "entity_value": "Uneven skin tone",
+    "product_id": 2,
+    "entity_type": "benefits"
+  },
+  {
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 2,
+    "entity_value": "2 bio essence biorenew exfoliating gel oil control 60g single or double pack"
+  },
+  {
+    "entity_value": "keeps skin moisturized no dry feeling after exfoliation",
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 2
+  },
+  {
+    "relationship": "hasBenefits",
+    "entity_value": "Dullness/ Uneven texture",
+    "product_id": 2,
+    "entity_type": "benefits"
+  },
+  {
+    "entity_value": "active skin renewal helps to defy signs of ageing and is crucial in achieving healthy and youthfullooking skin",
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 2
+  },
+  {
+    "entity_value": "gentle formula for daily use exfoliates dead skin to enable subsequent skin care products to be fully absorbed",
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 2
+  },
+  {
+    "relationship": "hasDescription",
+    "entity_value": "options",
+    "entity_type": "description",
+    "product_id": 2
+  },
+  {
+    "entity_value": "nourishes skin to help slow down signs of ageing for youthful skin",
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 2
+  },
+  {
+    "entity_value": "Bio-essence",
+    "entity_type": "brand",
+    "product_id": 2,
+    "relationship": "hasBrand"
+  },
+  {
+    "entity_value": "Oil-free",
+    "entity_type": "ingredient",
+    "relationship": "hasIngredient",
+    "product_id": 2
+  },
+  {
+    "relationship": "hasBenefits",
+    "product_id": 2,
+    "entity_type": "benefits",
+    "entity_value": "Anti Aging"
+  },
+  {
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 2,
+    "entity_value": "helps brighten dull skin and smoothen skin texture for easy makeup application that lasts longer and looks natural"
+  },
+  {
+    "entity_value": "infused with bio energy complex to enhance the renewal of new and healthy skin cells",
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 2
+  },
+  {
+    "relationship": "hasDescription",
+    "entity_value": "effective exfoliation",
+    "entity_type": "description",
+    "product_id": 2
+  },
+  {
+    "relationship": "hasBenefits",
+    "entity_value": "Blackheads",
+    "product_id": 2,
+    "entity_type": "benefits"
+  },
+  {
+    "relationship": "hasDescription",
+    "entity_value": "1 bio essence biorenew exfoliating gel 60g single or double pack",
+    "entity_type": "description",
+    "product_id": 2
+  },
+  {
+    "entity_type": "form",
+    "relationship": "hasForm",
+    "entity_value": "Gel",
+    "product_id": 2
+  },
+  {
+    "entity_value": "Naturally Derived",
+    "entity_type": "ingredient",
+    "relationship": "hasIngredient",
+    "product_id": 2
+  },
+  {
+    "relationship": "hasSkinType",
+    "entity_type": "skintype",
+    "product_id": 2,
+    "entity_value": "all skin type"
+  },
+  {
+    "entity_type": "ingredient",
+    "relationship": "hasIngredient",
+    "product_id": 2,
+    "entity_value": "Mineral"
+  },
+  {
+    "product": "Exfoliators & Scrubs",
+    "sold_num": "3.4k",
+    "title": "BIO ESSENCE BioRenew Exfoliating Gel 60g  Renewing Gentle Soapfree Face Scrub to Brighten and Smoothen Skin Texture",
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134201-22100-pztz9jx4aaiv3d_tn",
+    "price": 23.4,
+    "volume": "60.0g",
+    "fav_num": 524,
+    "product_id": 2
+  },
+  {
+    "relationship": "hasBenefits",
+    "entity_value": "Clogged Pores",
+    "product_id": 2,
+    "entity_type": "benefits"
+  },
+  {
+    "entity_type": "form",
+    "relationship": "hasForm",
+    "entity_value": "Gel",
+    "product_id": 3
+  },
+  {
+    "relationship": "hasBrand",
+    "entity_type": "brand",
+    "product_id": 3,
+    "entity_value": "Beauty of joseon"
+  },
+  {
+    "entity_type": "description",
+    "entity_value": "plantderived cellulose 8",
+    "relationship": "hasDescription",
+    "product_id": 3
+  },
+  {
+    "entity_value": "apply a proper amount on your dry face except areas near eyes massage gently for about 20 seconds",
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "product_id": 3
+  },
+  {
+    "relationship": "hasSkinType",
+    "entity_value": "all skin type",
+    "entity_type": "skintype",
+    "product_id": 3
+  },
+  {
+    "product": "Exfoliators & Scrubs",
+    "price": 14.99,
+    "title": "Beauty Of Joseon Apricot Blossom Peeling Gel 100ml",
+    "fav_num": 40,
+    "volume": "100.0ml",
+    "sold_num": "118",
+    "product_id": 3,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rcch-lt23n0jelgo086_tn"
+  },
+  {
+    "relationship": "hasBenefits",
+    "entity_type": "benefits",
+    "product_id": 3,
+    "entity_value": "Oiliness"
+  },
+  {
+    "entity_value": "Plant-derived cellulose 8%",
+    "entity_type": "ingredient",
+    "relationship": "hasIngredient",
+    "product_id": 3
+  },
+  {
+    "entity_type": "description",
+    "entity_value": "gommage texture",
+    "relationship": "hasDescription",
+    "product_id": 3
+  },
+  {
+    "entity_type": "description",
+    "entity_value": "prunus mume flower the plum blossom contains polyphenols and flavonoids to help make the skin clear and moist",
+    "relationship": "hasDescription",
+    "product_id": 3
+  },
+  {
+    "entity_type": "description",
+    "entity_value": "containing 19 prunus mume water and 8 plantderived cellulose it helps make the skin texture soft and moist",
+    "relationship": "hasDescription",
+    "product_id": 3
+  },
+  {
+    "entity_value": "this is a gommage type exfoliant containing 19 prunus mume flower water and 8 plantderived cellulose it helps to improve skin troubles caused by rough skin texture and excess sebum",
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "product_id": 3
+  },
+  {
+    "entity_value": "Prunus mume flower water",
+    "entity_type": "ingredient",
+    "relationship": "hasIngredient",
+    "product_id": 3
+  },
+  {
+    "entity_type": "description",
+    "entity_value": "the cellulose extracted from cotton gently exfoliates dead skin cells and impurities in the process of clumping in a circular shape on the skin",
+    "relationship": "hasDescription",
+    "product_id": 3
+  },
+  {
+    "relationship": "hasBenefits",
+    "entity_value": "Dullness/ Uneven texture",
+    "entity_type": "benefits",
+    "product_id": 3
+  },
+  {
+    "relationship": "hasBenefits",
+    "entity_value": "Calming",
+    "entity_type": "benefits",
+    "product_id": 3
+  },
+  {
+    "entity_type": "description",
+    "entity_value": "what it is",
+    "relationship": "hasDescription",
+    "product_id": 3
+  },
+  {
+    "entity_type": "description",
+    "entity_value": "the gommage texture minimizes skin irritation as the plantderived cellulose is worked onto the skin it gently exfoliates dead skin cells and skin wastes it can be used on the both face and body",
+    "relationship": "hasDescription",
+    "product_id": 3
+  },
+  {
+    "relationship": "hasBenefits",
+    "entity_value": "Hydrating",
+    "entity_type": "benefits",
+    "product_id": 3
+  },
+  {
+    "relationship": "hasBenefits",
+    "entity_value": "Uneven skin tone",
+    "entity_type": "benefits",
+    "product_id": 3
+  },
+  {
+    "entity_value": "moisturization",
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "product_id": 3
+  },
+  {
+    "product_id": 4,
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "recommend to use 23 times in a week and gradually build up the usage according to the skin condition"
+  },
+  {
+    "product_id": 4,
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "betaine salicylate bha cleanses excess keratin sebum and blackheads and makes them clean and healthy liquid essence to help"
+  },
+  {
+    "product_id": 4,
+    "entity_type": "description",
+    "entity_value": "100ml",
+    "relationship": "hasDescription"
+  },
+  {
+    "product_id": 4,
+    "entity_value": "COSRX",
+    "entity_type": "brand",
+    "relationship": "hasBrand"
+  },
+  {
+    "price": 11.01,
+    "product": "Exfoliators & Scrubs",
+    "sold_num": "2.6k",
+    "fav_num": 938,
+    "product_id": 4,
+    "title": "COSRX BHA Blackhead Power Liquid 100ml",
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rce3-lqyk12j4kzvb91_tn",
+    "volume": "100.0ml"
+  },
+  {
+    "product_id": 4,
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "pump the essence onto a cotton pad and gently wipe off face avoiding lip and eye area"
+  },
+  {
+    "product_id": 5,
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "patch test is recommended before use"
+  },
+  {
+    "volume": 0,
+    "product_id": 5,
+    "product": "Exfoliators & Scrubs",
+    "fav_num": 789,
+    "price": 16.0,
+    "title": "COSRX OFFICIAL The AHA BHA PHA LHA 35 Peel 35 Multi Acids Vitamin Trio B12 B5 E Resurface Refine Skin Unclog Pores",
+    "sold_num": "1k",
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rble-ln9s8ro3gxoqfb_tn"
+  },
+  {
+    "product_id": 5,
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "the aha bha pha lha 35 peel dramatically smooths skin texture and congested pores with a powerful multiacid blend this proformula gently exfoliates and minimize pores and reveals the look of a more even radiant complexion"
+  },
+  {
+    "entity_value": "unclogs pores",
+    "product_id": 5,
+    "entity_type": "description",
+    "relationship": "hasDescription"
+  },
+  {
+    "product_id": 5,
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "uniquely formulated with vitamin b12 calms irritated skin and gives the peel its natural pink color"
+  },
+  {
+    "product_id": 5,
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "dull skin"
+  },
+  {
+    "product_id": 5,
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "smooth  skin soft"
+  },
+  {
+    "product_id": 5,
+    "entity_type": "description",
+    "entity_value": "evens out skin texture",
+    "relationship": "hasDescription"
+  },
+  {
+    "product_id": 5,
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "why its special"
+  },
+  {
+    "product_id": 5,
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "this concentrated peel contains an extremely high concentration of multiacids"
+  },
+  {
+    "product_id": 5,
+    "entity_type": "description",
+    "entity_value": "clogged pores",
+    "relationship": "hasDescription"
+  },
+  {
+    "product_id": 5,
+    "entity_type": "description",
+    "entity_value": "best for experienced users",
+    "relationship": "hasDescription"
+  },
+  {
+    "product_id": 5,
+    "entity_type": "description",
+    "entity_value": "uneven texture  skin tone",
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_value": "resurface  refine skin",
+    "product_id": 5,
+    "entity_type": "description",
+    "relationship": "hasDescription"
+  },
+  {
+    "product_id": 5,
+    "entity_type": "description",
+    "entity_value": "rough  bumpy skin",
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_value": "COSRX",
+    "product_id": 5,
+    "entity_type": "brand",
+    "relationship": "hasBrand"
+  },
+  {
+    "product_id": 5,
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "use once a weekpm apply a generous amount to clean dry skin avoiding the eye area and lips leave on forno more than 10 minutesand then rinse off using lukewarm water"
+  },
+  {
+    "product_id": 5,
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "with 35 multiacids immediately go to work to address dramatic effectiveness"
+  },
+  {
+    "product_id": 6,
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "gradually lightens scars with regular use"
+  },
+  {
+    "product_id": 6,
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "green tea white marcel gel 60ml"
+  },
+  {
+    "product_id": 6,
+    "entity_value": "regulates and control sebum secretion for a shine free complexion whole day long",
+    "entity_type": "description",
+    "relationship": "hasDescription"
+  },
+  {
+    "product_id": 6,
+    "entity_value": "enhances complete and quick absorption of skincare products",
+    "entity_type": "description",
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_value": "helps lighten dark spots and pigmentation",
+    "product_id": 6,
+    "entity_type": "description",
+    "relationship": "hasDescription"
+  },
+  {
+    "product_id": 6,
+    "entity_type": "brand",
+    "entity_value": "Ginvera",
+    "relationship": "hasBrand"
+  },
+  {
+    "relationship": "hasBenefits",
+    "product_id": 6,
+    "entity_type": "benefits",
+    "entity_value": "Blackheads"
+  },
+  {
+    "product_id": 6,
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "removes makeup"
+  },
+  {
+    "product_id": 6,
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "deeply cleanses pores and helps prevent the onset of skin problems like pimples and blemishes"
+  },
+  {
+    "product_id": 6,
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "nutri white marcel gel 60ml"
+  },
+  {
+    "product_id": 6,
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "allows better and faster absorption of skincare products that is applied subsequently"
+  },
+  {
+    "entity_value": "removes blackhead without pain",
+    "product_id": 6,
+    "entity_type": "description",
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_value": "effectively removes blackheads easily and painlessly in just 1 step",
+    "product_id": 6,
+    "entity_type": "description",
+    "relationship": "hasDescription"
+  },
+  {
+    "relationship": "hasBenefits",
+    "entity_value": "Acne/ Blemishes",
+    "product_id": 6,
+    "entity_type": "benefits"
+  },
+  {
+    "entity_value": "daily use reveals a smoother softer finer fairer more radiant  youthful skin",
+    "product_id": 6,
+    "entity_type": "description",
+    "relationship": "hasDescription"
+  },
+  {
+    "product_id": 6,
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "thoroughly rubs away deep layers of dead and ageing skin"
+  },
+  {
+    "entity_value": "removes dry coarse dull and dark skin",
+    "product_id": 6,
+    "entity_type": "description",
+    "relationship": "hasDescription"
+  },
+  {
+    "relationship": "hasBenefits",
+    "product_id": 6,
+    "entity_value": "Dark spots/ Hyperpigmentation",
+    "entity_type": "benefits"
+  },
+  {
+    "product_id": 6,
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "whitens and evens out skin tone effective in helping to fading pigmentation spots and acne scars over time"
+  },
+  {
+    "title": "GINVERA Nutri White Marvel Gel 60ml",
+    "product": "Exfoliators & Scrubs",
+    "sold_num": "529",
+    "price": 11.9,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-23020-vjabhw4m1cnv99_tn",
+    "fav_num": 31,
+    "volume": "60.0ml",
+    "product_id": 6
+  },
+  {
+    "volume": 0,
+    "product": "Exfoliators & Scrubs",
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7qvg7-lh5yl8mskg0c6c_tn",
+    "product_id": 7,
+    "title": "SKINFOOD Official Acorn Pore Peptide Pad 60ea  Tighten Enlarged Pores  Improve Skin Elasticity  Increase Skin Firmness  Toner Pad",
+    "sold_num": "235",
+    "fav_num": 209,
+    "price": 21.36
+  },
+  {
+    "entity_value": "ellagic acid  high antioxidant effect care skin elasticity",
+    "entity_type": "description",
+    "product_id": 7,
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_type": "description",
+    "entity_value": "customers who want hypoallergenic functional product which can be used without skin irritation",
+    "product_id": 7,
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_type": "description",
+    "entity_value": "tip  wipe gently along the textured pores or use it as a mask pack on areas that need elasticity care",
+    "product_id": 7,
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_type": "description",
+    "entity_value": "jirisan acorn extract tightens pores up and dead skin cells are removed to reveal clean and healthy looking skin for those who desire healthy looking skin without enlarged pores",
+    "product_id": 7,
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_type": "description",
+    "product_id": 7,
+    "relationship": "hasDescription",
+    "entity_value": "a stiff cotton pad this one is made by an air holding method can be used by daily toner to daily mask pads"
+  },
+  {
+    "entity_value": "dermogologically tested for skin elasticity  firming improvement after 2 weeks of the use skin elasticity has improved 134",
+    "entity_type": "description",
+    "product_id": 7,
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_type": "form",
+    "relationship": "hasForm",
+    "product_id": 7,
+    "entity_value": "Pads"
+  },
+  {
+    "entity_type": "description",
+    "product_id": 7,
+    "relationship": "hasDescription",
+    "entity_value": "e lasticity c are l ine  which tighten enlarged pores and improve elasticity of skin to"
+  },
+  {
+    "entity_type": "description",
+    "product_id": 7,
+    "relationship": "hasDescription",
+    "entity_value": "tannin  skin soothing and convergence tightening pores"
+  },
+  {
+    "entity_value": "skin elasticity  firming care with jirisan acorn",
+    "entity_type": "description",
+    "product_id": 7,
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_type": "description",
+    "entity_value": "2 apply it like a mask pack on areas that require intensive pore  elasticity care and wipe it off again before the pad dries",
+    "product_id": 7,
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_type": "description",
+    "product_id": 7,
+    "relationship": "hasDescription",
+    "entity_value": "1 jirisan acorn"
+  },
+  {
+    "entity_type": "description",
+    "entity_value": "hard and smooth shelled acorns obtained from pawn oak trees around the valley of clean jirisan mountain",
+    "product_id": 7,
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_value": "SKINFOOD",
+    "entity_type": "brand",
+    "product_id": 7,
+    "relationship": "hasBrand"
+  },
+  {
+    "entity_value": "1 after washing face gently wipe along the skin texture of face except around the eyes",
+    "entity_type": "description",
+    "product_id": 7,
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_value": "for whom  customers who want to take care of enlarged pores and skin elasticity",
+    "entity_type": "description",
+    "product_id": 7,
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_value": "compress gap between thick pure cotton  added tension to the fabric  stiffer pads",
+    "entity_type": "description",
+    "product_id": 7,
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_type": "description",
+    "entity_value": "soaked with light brown toner essence in the pads give a smooth use and a fresh finish",
+    "product_id": 7,
+    "relationship": "hasDescription"
+  },
+  {
+    "relationship": "hasBenefits",
+    "entity_value": "Dryness",
+    "product_id": 7,
+    "entity_type": "benefits"
+  },
+  {
+    "entity_value": "rich in ellagic acid and tannin clean jirisan acorn helps with pore and elasticity care",
+    "entity_type": "description",
+    "product_id": 7,
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_value": "increase skin firmness with the ellagic acid ingredient obtained from acorns in the clean jirisan mountain",
+    "entity_type": "description",
+    "product_id": 7,
+    "relationship": "hasDescription"
+  },
+  {
+    "entity_type": "description",
+    "product_id": 7,
+    "relationship": "hasDescription",
+    "entity_value": "this pad can be used for from the textured skin to saggy skin and it contains gluconolactone which provides hypoallergenic exfoliation to help care pores and give smooth skin texture"
+  },
+  {
+    "entity_type": "description",
+    "product_id": 7,
+    "relationship": "hasDescription",
+    "entity_value": "food story"
+  },
+  {
+    "entity_value": "the vegan pore",
+    "entity_type": "description",
+    "product_id": 7,
+    "relationship": "hasDescription"
+  },
+  {
+    "relationship": "hasBenefits",
+    "entity_value": "Enlarged Pores",
+    "product_id": 7,
+    "entity_type": "benefits"
+  },
+  {
+    "entity_type": "description",
+    "product_id": 7,
+    "relationship": "hasDescription",
+    "entity_value": "skinfood acorn pore petitide collection"
+  },
+  {
+    "entity_type": "description",
+    "entity_value": "customers who want daily pore elasticity care products that can be use throughout the four seasons",
+    "product_id": 7,
+    "relationship": "hasDescription"
+  },
+  {
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 8,
+    "entity_value": "exfoliating  better skin texture  better blood circulation  moisturizing  clear skin 5in1"
+  },
+  {
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 8,
+    "entity_value": "macadamia  meadowfoam seed oil to nourish and soothe skin and fruit extracts papaya orange lemon apple to act as natural acids which minimizes irritation and mildly exfoliate"
+  },
+  {
+    "relationship": "hasBenefits",
+    "entity_value": "Dullness/ Uneven texture",
+    "product_id": 8,
+    "entity_type": "benefits"
+  },
+  {
+    "relationship": "hasSkinType",
+    "entity_type": "skintype",
+    "product_id": 8,
+    "entity_value": "all skin type"
+  },
+  {
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 8,
+    "entity_value": "leaves skin clear and healthy containing patented cosmetic compound"
+  },
+  {
+    "entity_value": "an exfoliating mask  scrub containing black sugar and fruit extracts that gently exfoliates skin for a brighter and smoother complexion",
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 8
+  },
+  {
+    "relationship": "hasBenefits",
+    "entity_value": "Clogged Pores",
+    "product_id": 8,
+    "entity_type": "benefits"
+  },
+  {
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 8,
+    "entity_value": "onestep application for scrubbing and massaging with more moisturizing scrub containing plant oil"
+  },
+  {
+    "entity_value": "2 leave on for 10  15 min rinse off with lukewarm water",
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 8
+  },
+  {
+    "relationship": "hasDescription",
+    "entity_value": "dont have 1015 min to spare use as an exfoliating scrub and rinse off after 1 min",
+    "entity_type": "description",
+    "product_id": 8
+  },
+  {
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 8,
+    "entity_value": "a substance made using skinfoods unique technology leaves skin smooth and clear"
+  },
+  {
+    "entity_value": "SKINFOOD",
+    "entity_type": "brand",
+    "product_id": 8,
+    "relationship": "hasBrand"
+  },
+  {
+    "entity_value": "smooth and clear skin texture cleansing skin texture cleansing line that leaves skin texture smooth and clear by deeply cleansing impurities from skin with black sugar and clear rice wine",
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 8
+  },
+  {
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 8,
+    "entity_value": "1 black sugar"
+  },
+  {
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 8,
+    "entity_value": "food story"
+  },
+  {
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 8,
+    "entity_value": "black sugar provides enriching vitamins and minerals to hydrate and nourish the skin it tightens pores and reduces sebum this scrub provides a total cleansing experience that replenishes and smoothes the skin"
+  },
+  {
+    "product": "Exfoliators & Scrubs",
+    "product_id": 8,
+    "title": "SKINFOOD Official Black Sugar Perfect Essential Scrub 2X 100g  210g  Hydrating  Nourishing Blackheads Remover",
+    "sold_num": "2.9k",
+    "volume": "100.0g",
+    "product_url": "https://down-sg.img.susercontent.com/file/5916f62a61819cfdaf434c58ddf3ad45_tn",
+    "fav_num": 1,
+    "price": 13.19
+  },
+  {
+    "entity_value": "3 patented substance skin renewup",
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 8
+  },
+  {
+    "entity_value": "for whom  who want a smoother and more gentle scrub product than the existing black sugar mask  who want gentle scrub and massage at once",
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 8
+  },
+  {
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 8,
+    "entity_value": "1 after cleansing apply onto wet skin and massage in circular motions for 30 sec  1 min concentrating on areas with blackheads and congested pores"
+  },
+  {
+    "relationship": "hasBenefits",
+    "entity_value": "Blackheads",
+    "product_id": 8,
+    "entity_type": "benefits"
+  },
+  {
+    "entity_value": "cosmetic compound of sarcodon aspratus extract and maca extract for skin brightening and antioxidant effect",
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 8
+  },
+  {
+    "entity_type": "form",
+    "entity_value": "Scrub",
+    "relationship": "hasForm",
+    "product_id": 8
+  },
+  {
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 8,
+    "entity_value": "black sugar a natural humectant that draws moisture from the air and rich in natural glycolic acid gently removes dead skin cells for a smooth and hydrated complexion"
+  },
+  {
+    "entity_value": "2 biotone up",
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 8
+  },
+  {
+    "relationship": "hasDescription",
+    "entity_type": "description",
+    "product_id": 8,
+    "entity_value": "skinfood black sugar perfect collection"
+  },
+  {
+    "entity_value": "1 dispense an ample amount onto wet palms and lather to a foam",
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "product_id": 9
+  },
+  {
+    "relationship": "hasBenefits",
+    "entity_value": "Dullness/ Uneven texture",
+    "entity_type": "benefits",
+    "product_id": 9
+  },
+  {
+    "entity_value": "food story",
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "product_id": 9
+  },
+  {
+    "entity_type": "description",
+    "entity_value": "2 for those looking to brighten dull rough lackluster skin",
+    "relationship": "hasDescription",
+    "product_id": 9
+  },
+  {
+    "title": "SKINFOOD Official Rice Daily Brightening Scrub Foam 150ml  Micro Fine Rice Bran Facial Scrub Foaming Cleanser  Exfoliating with Dense Foam  Sensitive Skin Scrub",
+    "product": "Exfoliators & Scrubs",
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7qvcv-lk7xwp1uz0ned8_tn",
+    "fav_num": 256,
+    "price": 10.14,
+    "product_id": 9,
+    "sold_num": "608",
+    "volume": "150.0ml"
+  },
+  {
+    "entity_value": "a gentle scrub foam that helps to clear  brighten skin with cheorwon odae rice bran water and exfoliates with fine natural rice powder that provides daily exfoliating care cheorwon odae rice grown in clean region of gangwon province gives fine powder particles which gently take away skin impurities and exfoliate well it has mild texture perfect for daily use",
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "product_id": 9
+  },
+  {
+    "entity_value": "made by fermenting cheorwon odae rice with rice nuruk a white nuruk bacillus used when brewing alcoholic beverages helps the generated organic acid prevent contamination from various germs while accelerating the fermentation process liquor made with rice nuruk has an excellent sour and refreshing flavor and the use of white nuruk bacillus results in clear transparent liquor to earn the highly enriched rice extract impurities are filtered and concentrate is solely extracted through the fermenting process",
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "product_id": 9
+  },
+  {
+    "entity_value": "this mild daily cleansing line infused with odae rice bran water from clean regions of gangwon province and rice nuruk fermented watertm boasts its powerful brightening solutions to give dull skin a clear and bright complexion like having been washed daily with rice water",
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "product_id": 9
+  },
+  {
+    "relationship": "hasBenefits",
+    "entity_value": "Dark spots/ Hyperpigmentation",
+    "entity_type": "benefits",
+    "product_id": 9
+  },
+  {
+    "relationship": "hasBenefits",
+    "entity_value": "Clogged Pores",
+    "entity_type": "benefits",
+    "product_id": 9
+  },
+  {
+    "entity_value": "for whom   who want powerful brightening solutions to give dull skin a clear and bright complexion with mild exfoliate foaming cleanser",
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "product_id": 9
+  },
+  {
+    "entity_value": "SKINFOOD",
+    "entity_type": "brand",
+    "relationship": "hasBrand",
+    "product_id": 9
+  },
+  {
+    "entity_type": "description",
+    "entity_value": "skinfood rice daily brightening collection",
+    "relationship": "hasDescription",
+    "product_id": 9
+  },
+  {
+    "relationship": "hasSkinType",
+    "entity_type": "skintype",
+    "entity_value": "all skin type",
+    "product_id": 9
+  },
+  {
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "2 gently massage on the face and wash off with lukewarm water",
+    "product_id": 9
+  },
+  {
+    "entity_type": "description",
+    "entity_value": "1 cheorwon odae rice",
+    "relationship": "hasDescription",
+    "product_id": 9
+  },
+  {
+    "entity_type": "description",
+    "entity_value": "2 rice nuruk fermented water extract",
+    "relationship": "hasDescription",
+    "product_id": 9
+  },
+  {
+    "product_id": 10,
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "a peeloff type nose strip that can be applied to any areas to remove sebum and impurities contains ash for extra grip on the skin removing stubborn black and white heads"
+  },
+  {
+    "product_id": 10,
+    "entity_value": "usage directions",
+    "entity_type": "description",
+    "relationship": "hasDescription"
+  },
+  {
+    "product_id": 10,
+    "entity_value": "jeju sasa rich in tannin which helps to tighten the pore effectively",
+    "entity_type": "description",
+    "relationship": "hasDescription"
+  },
+  {
+    "volume": 0,
+    "product": "Exfoliators & Scrubs",
+    "fav_num": 9,
+    "product_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rbkj-ll8qcymgdnw486_tn",
+    "title": "THEFACESHOP Jeju Volcanic Lava Ash Nose Strips",
+    "product_id": 10,
+    "price": 7.0,
+    "sold_num": "122"
+  },
+  {
+    "product_id": 10,
+    "entity_value": "THE FACE SHOP",
+    "entity_type": "brand",
+    "relationship": "hasBrand"
+  },
+  {
+    "product_id": 10,
+    "entity_value": "jeju akebia creates a skin moisture barrier and even out skin tone jeju seaweed rich in minerals which helps to maintain smooth and healthy skin",
+    "entity_type": "description",
+    "relationship": "hasDescription"
+  },
+  {
+    "product_id": 10,
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "suitable for"
+  },
+  {
+    "product_id": 10,
+    "entity_type": "description",
+    "relationship": "hasDescription",
+    "entity_value": "jeju volcanic lava removes impurities from pores for shinefree skin"
+  },
+  {
+    "product_id": 10,
+    "entity_type": "description",
+    "entity_value": "apply strips on dry and clean face peel off after 15  20 mins",
+    "relationship": "hasDescription"
+  }
+]
